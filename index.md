@@ -25,6 +25,3 @@ layout: default
 
     From January 2023, I've started a visiting research period at the Computer Vision Laboratory (CVLab) of the École Polytechnique Fédérale de Lausanne (EPFL) under the supervision of Dr. Mathieu Salzmann, working on the robustness evaluation of transformers architectures and adaptive learning for autonomous driving tasks. 
 </p>
-
-
- 
