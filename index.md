@@ -5,7 +5,7 @@ layout: default
 <tr>
     <td width="60%" valign="middle">
     <br>
-       I'm a third year Ph.D. student of the Scuola Superiore Sant'Anna of Pisa  at the Real-Time Systems (ReTiS) Laboratory under the supervision of Prof. Giorgio Buttazzo and Prof. Alessandro Biondi. 
+       I'm a third year Ph.D. student of the <b>Scuola Superiore Sant'Anna of Pisa</b>  at the Real-Time Systems (ReTiS) Laboratory under the supervision of Prof.<a href="http://retis.sssup.it/~giorgio/">Giorgio Buttazzo</a> and Prof.  <a href="https://retis.sssup.it/~a.biondi/">Alessandro Biondi</a>. 
    <br><br>
    Previously, I graduated in Embedded Computing Systems, a Master’s Degree offered by the Scuola Superiore Sant’Anna of Pisa and University of Pisa. 
     </td>   
@@ -23,5 +23,5 @@ layout: default
 
     <br><br>
 
-    From January 2023, I've started a visiting research period at the Computer Vision Laboratory (CVLab) of the École Polytechnique Fédérale de Lausanne (EPFL) under the supervision of Dr. Mathieu Salzmann, working on the robustness evaluation of transformers architectures and adaptive learning for autonomous driving tasks. 
+    From January 2023, I've started a research period at the Computer Vision Laboratory (CVLab) of the <b>École Polytechnique Fédérale de Lausanne (EPFL)</b>  under the supervision of Dr. <a href="https://people.epfl.ch/mathieu.salzmann"> Mathieu Salzmann</a>, working on the robustness evaluation of transformers architectures and adaptive learning strategies for autonomous driving tasks. 
 </p>
