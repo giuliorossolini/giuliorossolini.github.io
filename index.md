@@ -25,3 +25,10 @@ layout: default
 
     From January 2023, I've started a research period at the Computer Vision Laboratory (CVLab) of the <b>École Polytechnique Fédérale de Lausanne (EPFL)</b>  under the supervision of Dr. <a href="https://people.epfl.ch/mathieu.salzmann"> Mathieu Salzmann</a>, working on the robustness evaluation of transformers architectures and adaptive learning strategies for autonomous driving tasks. 
 </p>
+
+
+### Contact
+[giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
+
+#### Last update
+January 27, 2023
