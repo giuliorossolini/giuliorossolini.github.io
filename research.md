@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 My research is focused on improving and understanding the trustworthiness of AI architectures in computer vision and cyber-physical systems.
-This is accomplished by facing safety and security aspects that may threten the reliability of neural networks (adversarial attacks and defenses, robustness analysis against input perturbations, poisoning attacks, out-of-distribution detection, etc.).
+This is accomplished by facing safety and security aspects that may threaten the reliability of neural networks (adversarial attacks and defenses, robustness analysis against input perturbations, poisoning attacks, out-of-distribution detection, etc.).
 
 [Recent publications](#recent-publications)  &nbsp;   [Thesis and projects](#available-thesis-and-projects)
 
