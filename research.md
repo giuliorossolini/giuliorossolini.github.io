@@ -6,7 +6,7 @@ permalink: /research/
 My research is focused on improving and understanding the trustworthiness of AI architectures in computer vision and cyber-physical systems.
 This is accomplished by facing safety and security aspects that may threaten the reliability of neural networks (adversarial attacks and defenses, robustness analysis against input perturbations, poisoning attacks, out-of-distribution detection, etc.).
 
-[Recent publications](#recent-publications)  &nbsp;   [Thesis and projects](#available-thesis-and-projects)
+[Recent publications](#recent-publications)  &nbsp; &nbsp;   [Theses and projects](#available-theses-and-projects)
 
 # Recent publications
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=1NwO40wAAAAJ&hl=it) and [Semantic Scholar](https://www.semanticscholar.org/author/Giulio-Rossolini/2047404065) for the complete list of publications. 
@@ -20,8 +20,8 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=1NwO4
 </div>
 
 
-# Available thesis and projects
-The following is a list of experimental research topics for master thesis and master/Ph.D. projects. Please [contact me](mailto:giulio.rossolini@santannapisa.it) to get more details and schedule a meeting. 
+# Available theses and projects
+The following is a list of experimental research topics for master theses and master/Ph.D. projects. Please [contact me](mailto:giulio.rossolini@santannapisa.it) to get more details and schedule a meeting. 
 
 * Improving <b>Deep Steganography</b> via Generative Adversarial Models; 
 * Addressing Adversarial Perturbation through a <b>Fourier Analysis</b>;
