@@ -27,7 +27,7 @@ The following is a list of experimental research topics for master theses and ma
 * Addressing Adversarial Perturbation through a <b>Fourier Analysis</b>;
 * <b>Poisoning Attacks</b> for Computer Vision Models;
 * Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models;
-* <b>Autonomous Driving Simulator</b> for Adversarial Robustness and Domain Adaptation.
+* <b>Autonomous Driving Simulators </b> (CARLA and Unreal Engine) for Adversarial Robustness and Domain Adaptation.
 
 <br>
 <em>General requirements (not hard) </em>: a basic knowledge of deep neural networks and computer vision tasks; a minimum level of programming skills with python and classic AI libraries (e.g., Torch, Tensorflow, SciPy).
