@@ -26,7 +26,7 @@ The following is a list of experimental research topics for master theses and ma
 * Improving <b>Deep Steganography</b> via Generative Adversarial Models; 
 * Addressing Adversarial Perturbation through a <b>Fourier Analysis</b>;
 * <b>Poisoning Attacks</b> for Computer Vision Models;
-* Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models;
+* <del>Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models;</del>
 * <b>Autonomous Driving Simulators </b> (CARLA and Unreal Engine) for Adversarial Robustness and Domain Adaptation.
 
 <br>
