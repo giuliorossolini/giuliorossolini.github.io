@@ -19,24 +19,9 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=1NwO4
     </article>  {% endfor %}
 </div>
 
-
-# Available theses and projects
-The following is a list of experimental research topics for master theses and master/Ph.D. projects. Please [contact me](mailto:giulio.rossolini@santannapisa.it) to get more details and schedule a meeting. 
-
-* Improving <b>Deep Steganography</b> via Generative Adversarial Models; 
-* Addressing Adversarial Perturbation through a <b>Fourier Analysis</b>;
-* <b>Poisoning Attacks</b> for Computer Vision Models;
-* <del>Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models;</del>
-* <b>Autonomous Driving Simulators </b> (CARLA and Unreal Engine) for Adversarial Robustness and Domain Adaptation.
-
-<br>
-<em>General requirements (not hard) </em>: a basic knowledge of deep neural networks and computer vision tasks; a minimum level of programming skills with python and classic AI libraries (e.g., Torch, Tensorflow, SciPy).
-<br><br>
-If you would like to address other topics close to safe and secure aspects of AI, feel free to [contact me](mailto:giulio.rossolini@santannapisa.it) too.
-
 # Misc
 * Coordinator of the project "On the Safety and Security of Distributed AI-based Autonomous Multi-Agent Systems" financed by the Department of Excellence in Robotics & AI of Scuola Superiore Sant'Anna Pisa. 
-* Reviewer for ICASSP2023, TIFS, TECS, TETS, RTSS 2022, DAC'21, ISORC'22, EMSOFT 2022.  
+* Reviewer for TPAMI, ICCV2023, TITS, ICASSP2023, TIFS, TECS, TETS, RTSS 2022, DAC'21, ISORC'22, EMSOFT 2022.  
 
 ### Contact
 [giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
