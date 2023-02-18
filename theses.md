@@ -41,9 +41,11 @@ The goal of the project consists of leveraging <strong>Generative Adversarial Mo
 <tr>
     <td width="60%" valign="middle">
     <p style='font-size:90%'>
-   Adversarial perturbation is one of the most famous trends of robust AI. They consist of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. While many studies have addressed such a problem in the image domain, just a few have analyzed it in the frequency domain.
+   Adversarial perturbation is s famouse trend of robust AI, which consists of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. 
+   <br>
+   While many studies have addressed such a problem in the image domain, just a few have analyzed it in the frequency domain.
   <br><br><br>
-  This project aims to deepen the analysis of adversarial perturbations through the frequency domain and thus address novel defense strategies to improve the robustness of a given model.
+  This project aims at deepening the analysis of adversarial perturbations through the frequency domain and thus address novel defense strategies to improve the robustness of a neural model.
     </p>
     </td>
     <td style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
@@ -76,7 +78,9 @@ The goal of the project consists of leveraging <strong>Generative Adversarial Mo
 
 <table>
 <tr>
+  <td>
     This work aims at deepening the analysis of poisoning attacks against large-scale datasets and proposing novel attack strategies to deceive the spatial robustness of computer vision models (e.g., semantic segmentation and object detection).
+    </td>
 </tr>
 </table>
 
@@ -105,7 +109,7 @@ Potentially, the work can also unlock new research directions for investigating 
 
 <hr> 
 
-### 5 - [Already assigned] <del>Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models</del>
+### 5 - [Assigned] <del>Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models</del>
 
 <hr>
 
