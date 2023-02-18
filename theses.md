@@ -41,7 +41,7 @@ The goal of the project consists of leveraging <strong>Generative Adversarial Mo
 <tr>
     <td width="60%" valign="middle">
     <p style='font-size:90%'>
-   Adversarial perturbation is one of the most famous trends of robust AI. They consist of malicious and imperceptible input noise able to the DNN prediction. While many studies have addressed such a problem in the image domain, just a few have analyzed it in the frequency domain.
+   Adversarial perturbation is one of the most famous trends of robust AI. They consist of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. While many studies have addressed such a problem in the image domain, just a few have analyzed it in the frequency domain.
   <br><br><br>
   This project aims to deepen the analysis of adversarial perturbations through the frequency domain and thus address novel defense strategies to improve the robustness of a given model.
     </p>
