@@ -41,7 +41,7 @@ The goal of the project consists of leveraging <strong>Generative Adversarial Mo
 <tr>
     <td width="60%" valign="middle">
     <p style='font-size:90%'>
-   Adversarial perturbation is s famouse trend of robust AI, which consists of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. 
+   Adversarial perturbation is a famouse trend of robust AI, which consists of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. 
    <br>
    While many studies have addressed such a problem in the image domain, just a few have analyzed it in the frequency domain.
   <br><br><br>
@@ -109,7 +109,26 @@ Potentially, the work can also unlock new research directions for investigating 
 
 <hr> 
 
-### 5 - [Assigned] <del>Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models</del>
+
+### 5 -  Unsupervised Domain Adaptation for Railway Segmentation
+<table>
+<tr>
+<p style='font-size:90%'>
+Domain adaptation techniques help improve the accuracy of a neural model whenever there is a scarce availability of real-world annotated samples, which is particularly true for the railway domain.
+<br><br>
+The project aims at extending and improving previous domain adaptation techniques to railway scenarios, thus enabling an accurate rails segmentation relying only on synthetic annotated samples.
+</p>
+</tr>
+<tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
+        <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
+          <img src="{{ site.baseurl }}/images/thesis/railway.png" width="70%" height="110px">  
+        </p>  
+</tr>
+</table>
+
+<hr> 
+
+### 6 - [Assigned] <del>Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models</del>
 
 <hr>
 
@@ -117,4 +136,4 @@ Potentially, the work can also unlock new research directions for investigating 
 [giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
 
 #### Last update
-January 27, 2023
+Feb 20, 2023
