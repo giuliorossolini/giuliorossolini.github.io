@@ -41,7 +41,7 @@ The goal of the project consists of leveraging <strong>Generative Adversarial Mo
 <tr>
     <td width="60%" valign="middle">
     <p style='font-size:90%'>
-   Adversarial perturbation is a famouse trend of robust AI, which consists of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. 
+   Adversarial perturbation is a famous trend of robust AI, which consists of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. 
    <br>
    While many studies have addressed such a problem in the image domain, just a few have analyzed it in the frequency domain.
   <br><br><br>
