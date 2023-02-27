@@ -22,7 +22,7 @@ If you would like to address other topics close to safe and secure aspects of AI
 <p style='font-size:90%'>
 In cyber-security and data engineering, steganography is the art of hiding data (images, text, etc.) into other data. It allows sending secret messages between multiple users through apparently trustful public data. In recent years, classic steganography approaches have been outperformed by the advent of Deep Learning, opening new research directions in the AI security landscape.
 <br><br>
-The goal of the project consists of leveraging <strong>Generative Adversarial Models (GANs) </strong> to enlarge the amount of secret data hideable in a public message.
+The goal of the project consists of leveraging Generative Adversarial Models (GANs) to enlarge the amount of secret data hideable in a public message.
 </p>
 </tr>
 <tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
