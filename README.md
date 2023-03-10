@@ -1,4 +1,4 @@
-Personal website baesd on  **Jekyll Now** 
+Personal website based on  **Jekyll Now** 
 
 ## Credits
 

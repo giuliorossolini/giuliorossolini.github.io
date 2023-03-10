@@ -9,13 +9,16 @@ This is accomplished by facing safety and security aspects that may threaten the
 
 # Recent publications
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=1NwO40wAAAAJ&hl=it) and [Semantic Scholar](https://www.semanticscholar.org/author/Giulio-Rossolini/2047404065) for the complete list of publications. 
-<div class="post">
+<div class="posts">
   {% for pub in site.posts%}
     <article class="post">
       <div class="entry">
-        {{ pub.excerpt }}
+          <img src="{{ site.baseurl }}/images/publications/{{pub.imgName}}">
+
+          {{ pub.excerpt }}
       </div>
-    </article>  {% endfor %}
+    </article>  
+  {% endfor %}
 </div>
 
 # Misc
