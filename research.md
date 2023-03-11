@@ -23,7 +23,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=1NwO4
 
 # Misc
 * Coordinator of the project "On the Safety and Security of Distributed AI-based Autonomous Multi-Agent Systems" financed by the Department of Excellence in Robotics & AI of Scuola Superiore Sant'Anna Pisa. 
-* Reviewer for TPAMI, ICCV2023, TITS, ICASSP2023, TIFS, TECS, TETS, RTSS 2022, DAC'21, ISORC'22, EMSOFT 2022.  
+* Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Conference of Computer Vision (ICCV2023), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP2023), IEEE Transactions on Information Forensics and Security, ACM Transactions on Embedded Computing Systems, RTSS 2022, DAC'21, EMSOFT 2022, and others.  
 
 ### Contact
 [giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
