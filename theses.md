@@ -27,7 +27,7 @@ The goal of the project consists of leveraging Generative Adversarial Models (GA
 </tr>
 <tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
 <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
-  <img src="{{ site.baseurl }}/images/thesis/steganography.webp" width="600" height="150">
+  <img src="{{ site.baseurl }}/images/thesis/steganography.webp" width="80%" height="100%">
 </p>
 </tr>
 </table>
@@ -36,18 +36,20 @@ The goal of the project consists of leveraging Generative Adversarial Models (GA
 
 <hr>
 
+
 ### 2 - Addressing Adversarial Perturbation through a <b>Fourier Analysis</b>
 <table cellpadding="0" cellspacing="0" width="100%" border-collapse="collapse">
 <tr>
     <td width="60%" valign="middle">
     <p style='font-size:90%'>
-   Adversarial perturbation is a famous trend of robust AI, which consists of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. 
-   <br>
+    Adversarial perturbation is a famous trend of robust AI, which consists of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. 
    While many studies have addressed such a problem in the image domain, just a few have analyzed it in the frequency domain.
-  <br><br><br>
+  <br>
   This project aims at deepening the analysis of adversarial perturbations through the frequency domain and thus address novel defense strategies to improve the robustness of a neural model.
     </p>
     </td>
+  </tr>
+<tr>
     <td style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
         <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
           <img src="{{ site.baseurl }}/images/thesis/frequency_analysis.jpg" width="80%" height="100%">  
@@ -55,6 +57,7 @@ The goal of the project consists of leveraging Generative Adversarial Models (GA
     </td>
 </tr>
 </table>
+
 
 
 <hr>
@@ -66,23 +69,19 @@ The goal of the project consists of leveraging Generative Adversarial Models (GA
     <p style='font-size:90%'>
     The high performance achieved by current deep neural networks mainly relies on the availability and quality of annotated training data. However, the correctness and fairness of the training set can be compromised by so-called poisoning attacks where malicious users inject fake training samples or alter the available ones to corrupt the trained model, making dangerous and unexpected behaviors. 
     <br>
+    This work aims at deepening the analysis of poisoning attacks against large-scale datasets and proposing novel attack strategies to deceive the spatial robustness of computer vision models (e.g., semantic segmentation and object detection).
     </p>
     </td>
-    <td style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
+  </tr>
+<tr>
+<td style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
         <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
-          <img src="{{ site.baseurl }}/images/thesis/poisoning.webp" width="100%" height="100%">  
+          <img src="{{ site.baseurl }}/images/thesis/poisoning.webp" width="70%" height="100%">  
         </p>  
-    </td>
+</td>
 </tr>
 </table>
 
-<table>
-<tr>
-  <td>
-    This work aims at deepening the analysis of poisoning attacks against large-scale datasets and proposing novel attack strategies to deceive the spatial robustness of computer vision models (e.g., semantic segmentation and object detection).
-    </td>
-</tr>
-</table>
 
 
 <hr>
@@ -102,7 +101,7 @@ Potentially, the work can also unlock new research directions for investigating 
 </tr>
 <tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
         <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
-          <img src="{{ site.baseurl }}/images/thesis/carla.png" width="90%" height="20%">  
+          <img src="{{ site.baseurl }}/images/thesis/carla.png"  width="80%" height="100%"> 
         </p>  
 </tr>
 </table>
@@ -121,7 +120,7 @@ The project aims at extending and improving previous domain adaptation technique
 </tr>
 <tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
         <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
-          <img src="{{ site.baseurl }}/images/thesis/railway.png" width="70%" height="110px">  
+          <img src="{{ site.baseurl }}/images/thesis/railway.png" width="80%" height="100%">  
         </p>  
 </tr>
 </table>
