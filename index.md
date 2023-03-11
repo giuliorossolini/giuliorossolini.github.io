@@ -16,7 +16,7 @@ layout: default
 </p>
 
 <p style="text-align:center;">
-<img src="{{ site.baseurl }}/images/profilo.png " style="width:30%; height:30%; margin-right:15px; border-radius:3000px;">
+<img src="{{ site.baseurl }}/images/profilo.png " style="width:45%; height:30%; margin-right:15px; border-radius:3000px;">
 </p>
 
 ### Contact
