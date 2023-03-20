@@ -129,6 +129,12 @@ The project aims at extending and improving previous domain adaptation technique
 
 ### 6 - [Assigned] <del>Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models</del>
 
+### Other topics
+* Domain Adaptation for Autonomous Driving Tasks 
+* Part-based Segmentation 
+* DeepFake Models
+* Physically-Realizable Adversarial Attacks
+
 <hr>
 
 ### Contact
