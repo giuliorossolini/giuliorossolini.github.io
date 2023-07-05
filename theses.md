@@ -4,7 +4,7 @@ title: Available theses and projects
 permalink: /theses/
 ---
 
-The following is a list of experimental research topics currently available for master theses and master/Ph.D. projects. 
+The following is a list of research fields available for master's theses and master/Ph.D. projects. Each research field may offer multiple thesis topics, aiming to familiarize students with current and relevant areas of interest in the field of artificial intelligence, spanning both industrial and academic domains. All theses are conducted in collaboration with the Scuola Superiore Sant'Anna of Pisa in the TeCIP institute area (CNR).
 
 Please [contact me](mailto:giulio.rossolini@santannapisa.it) to get more details and schedule a meeting. 
 If you would like to address other topics close to safe and secure aspects of AI, feel free to [contact me](mailto:giulio.rossolini@santannapisa.it) too!
@@ -14,47 +14,55 @@ If you would like to address other topics close to safe and secure aspects of AI
 
 <hr>
 
-### 1 - Improving <b>Deep Steganography</b> via Generative Adversarial Models
+### 1 - Simulators and Synthetic Datasets for Testing Computer Vision Algorithms in Driving Scenarios
 
 
 <table>
 <tr>
-<p style='font-size:90%'>
-In cyber-security and data engineering, steganography is the art of hiding data (images, text, etc.) into other data. It allows sending secret messages between multiple users through apparently trustful public data. In recent years, classic steganography approaches have been outperformed by the advent of Deep Learning, opening new research directions in the AI security landscape.
-<br><br>
-The goal of the project consists of leveraging Generative Adversarial Models (GANs) to enlarge the amount of secret data hideable in a public message.
+<p>
+To address the challenge of acquiring extensive and annotated datasets for computer vision models in autonomous domains, the presence of reliable simulators and suitable synthetic datasets is of utmost importance.
+The following topics explore various aspects related to simulators and synthetic datasets and contribute to the advancement of computer vision algorithms in driving scenarios, particularly in terms of robustness, generalization, and transferability to real-world domains:
+<br>
+
+ <ol>
+<li> Evaluating the Robustness of Computer Vision Models Against <b> Attacks and Environmental Changes </b>. <br></li>
+<li> Improving the Testing of Computer Vision Algorithms against <b> Out-of-Distribution Samples </b> through Simulators.<br></li>
+<li> Reducing the <b> Domain Shift for Domain Adaptation </b> through Simulators and Games for Synthetic Datasets.<br></li>
+</ol> 
+
 </p>
 </tr>
 <tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
 <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
-  <img src="{{ site.baseurl }}/images/thesis/steganography.webp" width="80%" height="100%">
+  <img src="{{ site.baseurl }}/images/temp/simulator_gta.png" width="70%" height="80%">
+  <figcaption style="text-align:center"> Fig. - (a) CarlaGear framework [<a href="https://arxiv.org/abs/2206.04365">REF</a>]; (b) GTA Dataset [<a href="https://arxiv.org/abs/1608.02192v1">REF</a>]</figcaption>
 </p>
 </tr>
 </table>
-
-
-
 <hr>
 
 
-### 2 - Addressing Adversarial Perturbation through a <b>Fourier Analysis</b>
+### 2 -   Physically-Realizable Adversarial Attacks in Real-World Machine Learning Applications
 <table cellpadding="0" cellspacing="0" width="100%" border-collapse="collapse">
 <tr>
-    <td width="60%" valign="middle">
-    <p style='font-size:90%'>
-    Adversarial perturbation is a famous trend of robust AI, which consists of malicious and imperceptible input noise intentionally injected to fool the DNN prediction. 
-   While many studies have addressed such a problem in the image domain, just a few have analyzed it in the frequency domain.
-  <br>
-  This project aims at deepening the analysis of adversarial perturbations through the frequency domain and thus address novel defense strategies to improve the robustness of a neural model.
-    </p>
-    </td>
-  </tr>
+<p>
+With the increasing adoption of machine learning models in real-world applications, concerns have arisen about their vulnerability to physically-realizable adversarial attacks. The following topics delve into the phenomenon of adversarial attacks in real-world scenarios and explore methods to mitigate their impact, while also considering potential new threats. The study specifically addresses the following aspects:
+   <ul>
+<li> <b>Run-time Defense Monitoring </b> of Internal DNNs Behaviors Against Physical Attacks.<br></li>
+<li> Reviewing <b> Certification Approaches </b> for Assessing Robustness against Physical Attacks. <br></li>
+<li> Examining the <b> Transferability of Physical Attacks </b> and <b> Backdoor Attack Scenarios </b>.
+ <br></li>
+</ul> 
+</p>
+
+</tr>
 <tr>
-    <td style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
+<tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
         <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
-          <img src="{{ site.baseurl }}/images/thesis/frequency_analysis.jpg" width="80%" height="100%">  
+          <img src="{{ site.baseurl }}/images/temp/adversarial_patch.png" width="70%" height="100%">  
+          <figcaption style="text-align:center"> Fig. -Adversarial patch attack for image classification [<a href="https://arxiv.org/abs/1712.09665">REF</a>]</figcaption>
         </p>  
-    </td>
+</tr>
 </tr>
 </table>
 
@@ -62,78 +70,71 @@ The goal of the project consists of leveraging Generative Adversarial Models (GA
 
 <hr>
 
-### 3 -  <b>Poisoning Attacks</b> for Computer Vision Models
+### 3 - Recent Topics in Secure AI
 <table cellpadding="0" cellspacing="0" width="100%" border-collapse="collapse">
 <tr>
-    <td width="60%" valign="middle">
-    <p style='font-size:90%'>
-    The high performance achieved by current deep neural networks mainly relies on the availability and quality of annotated training data. However, the correctness and fairness of the training set can be compromised by so-called poisoning attacks where malicious users inject fake training samples or alter the available ones to corrupt the trained model, making dangerous and unexpected behaviors. 
-    <br>
-    This work aims at deepening the analysis of poisoning attacks against large-scale datasets and proposing novel attack strategies to deceive the spatial robustness of computer vision models (e.g., semantic segmentation and object detection).
-    </p>
-    </td>
-  </tr>
+<p>
+The following theses delve into emerging areas of secure AI, providing students with the opportunity to explore the literature, review advancements, and address specific challenges related to the development of safe and robust AI systems.
+<ol>
+<li> <b>Deep Steganography</b> - Exploring Generative Models and High-Resolution Datasets. 
+This project focuses on the concept of deep steganography, which involves hiding information within data. The student will begin by gaining a comprehensive understanding of the existing literature on deep steganography. Then, the thesis will delve into the challenges associated with steganography using generative models and high-resolution datasets.
+<br></li>
+<li> Addressing the Transferability of <b>Black-Box Attacks</b>. This thesis focuses on black-box adversarial attacks and aims to investigate the state-of-the-art techniques in this area. The student will explore methods to improve the transferability of such attacks across different models, thus enhancing the understanding and defense mechanisms against black-box attacks in AI systems. <br></li>
+<li> Studying <b>Adversarial Perturbations in the Fourier Domain</b>. This research aims to investigate adversarial perturbations in the frequency domain as a means to enhance and understand the robustness of computer vision models against adversarial attacks from a new perspective. <br></li>
+</ol> 
+</p>
+</tr>
 <tr>
-<td style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
+<tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
         <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
-          <img src="{{ site.baseurl }}/images/thesis/poisoning.webp" width="70%" height="100%">  
+          <img src="{{ site.baseurl }}/images/temp/stegano.png" width="70%" height="100%">  
+          <figcaption style="text-align:center">Fig. -Exaple of a Deep Steganography scheme [<a href="https://arxiv.org/abs/2101.00350">REF</a>].</figcaption>
         </p>  
-</td>
+</tr>
+
+<tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
+        <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
+          <img src="{{ site.baseurl }}/images/thesis/frequency_analysis.jpg" width="70%" height="100%">  
+          <figcaption style="text-align:center">Fig. - Decoupling the frequencies of an original image and a perturbed image in the Fourier domain.
+          </figcaption>
+        </p>  
+</tr>
 </tr>
 </table>
-
 
 
 <hr>
 
-### 4 -  <b>Autonomous Driving Simulators </b> for Adversarial Robustness.
-<table>
+
+### 4 -  Domain Adaptation for Autonomous Domains
+<table cellpadding="0" cellspacing="0" width="100%" border-collapse="collapse">
 <tr>
-<p style='font-size:90%'>
-Addressing the robustness of computer vision tasks in autonomous driving applications is a challenging and expensive task, due to the hard testing processes and setup time. 
-To this end, recent studies have shown that Autonomous Driving Simulator can represent a valuable and computationally-affordable solution since the annotations and testing scenarios can be generated automatically by the available software tools (e.g., CARLA).
-<br><br>
-This work addresses open problems of current Autonomous Driving Simulators used to evaluate the model robustness, such as domain shift issues and testing scenarios.
-Potentially, the work can also unlock new research directions for investigating new robust domain adaptation strategies.
-<br><br>
-<em>Note</em>. Basic knowledge of CARLA and Unreal Engine environments is recommended.
+<p> 
+Domain adaptation techniques are crucial for enhancing the accuracy of neural models when real-world annotated samples are scarce, especially in outdoor environments like the railway and driving domains. These theses provide opportunities to tackle recent challenges in the field of domain adaptation.
+   <ul>
+<li> Unsupervised Domain Adaptation for <b>Railway Segmentation</b>. The student will explore methods to adapt semantic segmentation models to railway datasets without the need for additional annotations. <br></li>
+<li> <b>Self-learning </b> Approaches with Label Refinements. This project aims to review and improving pseudo-labelling approaches for unsupervised domain adaptation.  <br></li>
+<li> Reviewing <b> Style Transfer </b> Strategies for Domain Adaptation. This research involves reviewing and analyzing image-to-image strategies for domain adaptation. The student will explore state-of-the-art methods that align images from source domain to target domains and so enabling effective knowledge transfer. <br></li>
+</ul> 
 </p>
+
 </tr>
+<tr>
 <tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
         <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
-          <img src="{{ site.baseurl }}/images/thesis/carla.png"  width="80%" height="100%"> 
+          <img src="{{ site.baseurl }}/images/temp/style_transfer.png" width="50%" height="80%">  
+          <figcaption style="text-align:center">Fig. - Example of style transfer from a synthetic domain to a real-world domain.</figcaption>
         </p>  
+</tr>
 </tr>
 </table>
 
-<hr> 
+<hr>
 
-
-### 5 -  Unsupervised Domain Adaptation for Railway Segmentation
-<table>
-<tr>
-<p style='font-size:90%'>
-Domain adaptation techniques help improve the accuracy of a neural model whenever there is a scarce availability of real-world annotated samples, which is particularly true for the railway domain.
-<br><br>
-The project aims at extending and improving previous domain adaptation techniques to railway scenarios, thus enabling an accurate rails segmentation relying only on synthetic annotated samples.
-</p>
-</tr>
-<tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
-        <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
-          <img src="{{ site.baseurl }}/images/thesis/railway.png" width="80%" height="100%">  
-        </p>  
-</tr>
-</table>
-
-<hr> 
-
-### 6 - [Assigned] <del>Improving the <b>Coverage Analysis of DNNs</b> via Predictable Models</del>
-
-### Other topics
-* Domain Adaptation for Autonomous Driving Tasks 
-* Part-based Segmentation 
-* DeepFake Models
-* Physically-Realizable Adversarial Attacks
+### Other topics (contact me for further details)
+* Safe and robustness topics with Transformers
+* Data anonimization in autonomous driving with DeepFake models
+* Attention mechanisms for semantic segmentation and object detection
 
 <hr>
 
@@ -141,4 +142,4 @@ The project aims at extending and improving previous domain adaptation technique
 [giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
 
 #### Last update
-Feb 20, 2023
+July 5, 2023
