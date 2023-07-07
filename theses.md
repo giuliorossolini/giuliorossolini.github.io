@@ -88,7 +88,7 @@ This project focuses on the concept of deep steganography, which involves hiding
 <tr style="padding:20px;width:40%;vertical-align:middle; horizontal-align:middle">
         <p style="text-align:center; margin-top: 0px; margin-bottom: 0px">
           <img src="{{ site.baseurl }}/images/temp/stegano.png" width="70%" height="100%">  
-          <figcaption style="text-align:center">Fig. -Exaple of a Deep Steganography scheme [<a href="https://arxiv.org/abs/2101.00350">REF</a>].</figcaption>
+          <figcaption style="text-align:center">Fig. -Example of a Deep Steganography scheme [<a href="https://arxiv.org/abs/2101.00350">REF</a>].</figcaption>
         </p>  
 </tr>
 
