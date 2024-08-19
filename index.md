@@ -4,15 +4,13 @@ layout: default
 
 <p>
 <br>
-    I'm a third year Ph.D. student of the <b>Scuola Superiore Sant'Anna of Pisa</b>  at the Real-Time Systems (ReTiS) Laboratory under the supervision of Prof.<a href="http://retis.sssup.it/~giorgio/">Giorgio Buttazzo</a> and Prof.  <a href="https://retis.sssup.it/~a.biondi/">Alessandro Biondi</a>. 
+I am an assistant professor at the Real-Time Systems Laboratory of Scuola Superiore Sant’Anna in Pisa. I received my Ph.D. in Emerging Digital Technologies in 2024, with a focus on safety and robustness issues in artificial intelligence algorithms for cyber-physical systems, under the supervision of Prof.<a href="http://retis.sssup.it/~giorgio/">Giorgio Buttazzo</a> and Prof.  <a href="https://retis.sssup.it/~a.biondi/">Alessandro Biondi</a>. 
    <br><br>
-   Previously, I graduated in Embedded Computing Systems, a Master’s Degree offered by the Scuola Superiore Sant’Anna of Pisa and University of Pisa. 
-
-    My current research interests include the design of novel AI architectures and software tools to support and increase the trustworthiness of machine learning in computer vision applications and safety-critical systems.
+   My current research interests include designing and implementing software tools to enhance the trustworthiness of machine learning algorithms used in computer vision applications and distributed learning-enabled environments.
 
     <br><br>
 
-    From January 2023, I've started a research period at the Computer Vision Laboratory (CVLab) of the <b>École Polytechnique Fédérale de Lausanne (EPFL)</b>  under the supervision of Dr. <a href="https://people.epfl.ch/mathieu.salzmann"> Mathieu Salzmann</a>, working on the robustness evaluation of self-attention architectures and adaptive learning strategies for autonomous driving tasks. 
+From January 2023 to August 2023, I conducted a research visit at the Computer Vision Laboratory (CVLab) of the École Polytechnique Fédérale de Lausanne (EPFL) under the supervision of Dr. <a href="https://people.epfl.ch/mathieu.salzmann"> Mathieu Salzmann</a>, working on the robustness evaluation of self-attention architectures and adaptive learning strategies for autonomous driving tasks. 
 </p>
 
 <p style="text-align:center;">
