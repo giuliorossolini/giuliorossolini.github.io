@@ -2,23 +2,86 @@
 layout: default
 ---
 
-<p>
-<br>
-I am an assistant professor at the Real-Time Systems Laboratory of Scuola Superiore Sant’Anna in Pisa. I received my Ph.D. in Emerging Digital Technologies in 2024, with a focus on safety and robustness issues in artificial intelligence algorithms for cyber-physical systems, under the supervision of Prof.<a href="http://retis.sssup.it/~giorgio/">Giorgio Buttazzo</a> and Prof.  <a href="https://retis.sssup.it/~a.biondi/">Alessandro Biondi</a>. 
-   <br><br>
-   My current research interests include designing and implementing software tools to enhance the trustworthiness of machine learning algorithms used in computer vision applications and distributed learning-enabled environments.
 
-    <br><br>
+<!-- ===== Hero / Heading ===== -->
+<div style="margin: 1.5rem 0 2rem 0;">
+  <h1 style="margin-bottom:.2rem;text-align:center">Giulio Rossolini</h1>
+  <p style="font-size:1.1rem; text-align:center; margin-top:.4rem;">
+    Assistant Professor (RTD-A) on Safe & Secure AI, <strong>Scuola Superiore Sant’Anna</strong> 
+  </p>
 
-From January 2023 to August 2023, I conducted a research visit at the Computer Vision Laboratory (CVLab) of the École Polytechnique Fédérale de Lausanne (EPFL) under the supervision of Dr. <a href="https://people.epfl.ch/mathieu.salzmann"> Mathieu Salzmann</a>, working on the robustness evaluation of self-attention architectures and adaptive learning strategies for autonomous driving tasks. 
-</p>
 
-<p style="text-align:center;">
-<img src="{{ site.baseurl }}/images/profilo.png " style="width:45%; height:30%; margin-right:15px; border-radius:3000px;">
-</p>
+<hr style="margin:1.5rem 0;"/>
 
-### Contact
-[giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
 
-#### Last update
-January 27, 2023
+
+
+
+<!-- ===== Bio & Research (single column) ===== -->
+<div style="max-width:900px; margin:0 auto;">
+
+  <p>
+    Hi! I am an Assistant Professor (RTD-A) at the <strong>Scuola Superiore Sant’Anna</strong> in Pisa,
+    working on <strong>safe and secure artificial intelligence</strong>. I received my Ph.D. in
+    <em>Emerging Digital Technologies</em> (2024), focusing on <strong>safety and robustness</strong> of AI
+    for cyber-physical systems and <strong>computer vision</strong>, under the supervision of
+    <a href="http://retis.sssup.it/~giorgio/" target="_blank" rel="noopener">Prof. Giorgio Buttazzo</a> and
+    <a href="https://retis.sssup.it/~a.biondi/" target="_blank" rel="noopener">Prof. Alessandro Biondi</a>.
+    In 2023 I visited the <strong>Computer Vision Laboratory (CVLab)</strong> at
+    <strong>EPFL</strong> with
+    <a href="https://people.epfl.ch/mathieu.salzmann" target="_blank" rel="noopener">Dr. Mathieu Salzmann</a>,
+    studying robustness of self-attention and adaptive learning for autonomous driving.
+  </p>
+
+  <p style="margin-top:1rem;">
+    I care about building <strong>AI we can trust</strong>, merging theory and practice to make models
+    <em>robust, transparent, and efficient</em> in real deployments, especially when decisions affect safety.  
+    My current research spans <strong>adversarial robustness</strong> (stress-testing vision and NLP systems against evasion and poisoning attacks), 
+    <strong>efficiency under constraints</strong> (balancing accuracy, computation, and energy in distributed AI), 
+    <strong>explainability and uncertainty</strong> (interpreting model behavior and extracting reliable signals about failures), 
+    and <strong>out-of-distribution and risk-aware metrics</strong> (quantifying failure severity in safety-critical tasks such as autonomous driving).
+  </p>
+
+
+<!-- ===== Latest News (bottom board) ===== -->
+<!-- ===== Latest News (bottom board) ===== -->
+<div id="latest-news"
+     style="margin-top:2rem; border:2px solid #0077b6; border-radius:12px; padding:18px 20px; background:#e6f2fa; box-shadow:0 4px 12px rgba(0,0,0,0.08);">
+  <h3 style="margin-top:0; margin-bottom:1rem; color:#00334d;">
+    Latest News ✨
+  </h3>
+
+  <div style="margin-bottom:1rem;">
+    🏆 <strong>Sep 2025</strong> — Paper accepted in <em>Pattern Recognition</em> on 
+    <strong>Benchmarking the Robustness of Vision Models</strong>. 
+    <a href="PUT_LINK_HERE" target="_blank">Read more →</a>
+  </div>
+
+  <div style="margin-bottom:1rem;">
+    📝 <strong>Sep 2025</strong> — New preprint on <strong>LLM Alignment with GTPO</strong>. 
+    <a href="PUT_LINK_HERE" target="_blank">See preprint →</a>
+  </div>
+
+  <div style="margin-bottom:1rem;">
+    🏆 <strong>Sep 2025</strong> — Awarded the <strong>PhD Dissertation Prize</strong> from the Italian Society of Intelligence.
+  </div>
+</div>
+
+
+
+  <!-- Profile image at the bottom -
+  <div style="text-align:center; margin-top:2rem;">
+    <img src="{{ site.baseurl }}/images/profilo.png" alt="Profile photo"
+         style="width:50%; max-width:260px; height:auto; border-radius:1000px; box-shadow:0 2px 10px rgba(0,0,0,.12);" />
+  </div>
+</div>
+-->
+
+ <!-- Contact + Last update -->
+  <div style="margin-top:1rem;">
+    <h3 style="margin-bottom:.4rem;">Contact</h3>
+    <p><a href="mailto:giulio.rossolini@santannapisa.it">giulio.rossolini@santannapisa.it</a></p>
+    <p style="font-size:.95rem; color:#555;">Last update: September, 2025</p>
+  </div>
+
+

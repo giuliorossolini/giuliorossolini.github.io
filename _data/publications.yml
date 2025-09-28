@@ -1,0 +1,143 @@
+# _data/publications.yml
+- title: "Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions"
+  authors: "G. M. Pietrosanti, G. Rossolini, A. Biondi, G.Buttazzo"
+  venue: "Pattern Recognition 172:112412"
+  year: 2025
+  link: "https://www.sciencedirect.com/science/article/pii/S0031320325010738"
+
+- title: "GTPO: Trajectory-Based Policy Optimization in Large Language Models"
+  authors: "M Simoni, A. Fontana, G. Rossolini, A. Saracino"
+  venue: "(preprint) arXiv"
+  year: 2025
+  link: "https://arxiv.org/abs/2508.03772"
+
+- title: "Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization"
+  authors: "M Simoni, A. Fontana, G. Rossolini, A. Saracino"
+  venue: "(preprint) arXiv"
+  year: 2025
+  link: "https://arxiv.org/abs/2507.03051"
+
+
+- title: "SynDRA: Synthetic Dataset for Railway Applications"
+  authors: "G. D'Amico, F. Nesti, G. Rossolini, M. Marinoni, S. Sabina, G. Buttazzo"
+  venue: "Proceedings of the Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2025
+  link: "https://ieeexplore.ieee.org/abstract/document/10944015/"
+
+
+
+
+- title: "Leveraging Knowledge Graphs and LLMs for Structured Generation of Misinformation"
+  authors: "S. Nayab, M. Simoni, G. Rossolini"
+  venue: "20th International Conference on Availability, Reliability and Security (ARES 2025)"
+  year: 2025
+  link: "https://link.springer.com/chapter/10.1007/978-3-032-00639-4_19"
+
+- title: "Video Deblurring by Sharpness Prior Detection and Edge Information"
+  authors: "Y, Tian, F. Brau, G. Rossolini, G. Buttazzo, H. Meng"
+  venue: "(preprint) arXiv"
+  year: 2025
+  link: "https://arxiv.org/abs/2501.12246"
+
+- title: "Exploiting Edge Features for Transferable Adversarial Attacks in Distributed Machine Learning"
+  authors: "G. Rossolini, F.Brau, A. Biondi, B.Biggio, G. Buttazzo"
+  venue: "arXiv"
+  year: 2025
+  arxiv: "https://arxiv.org/abs/2507.07259"
+
+- title: "Edge-Only Universal Adversarial Attacks in Distributed Learning"
+  authors: "G. Rossolini, T. Baldi, A. Biondi, G. Buttazzo"
+  venue: "arXiv"
+  year: 2024
+  arxiv: "https://arxiv.org/abs/2411.10500"
+
+
+- title: "Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost"
+  authors: "S. Nayab, G. Rossolini, M. Simoni, A. Saracino, G. Buttazzo, N. Manes, F. Giacomelli"
+  venue: "arXiv"
+  year: 2024
+  arxiv: "https://arxiv.org/abs/2407.19825"
+
+
+
+- title: "Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost"
+  authors: "S. Nayab, G. Rossolini, M. Simoni, A. Saracino, G. Buttazzo, N. Manes, F. Giacomelli"
+  venue: "arXiv"
+  year: 2024
+  arxiv: "https://arxiv.org/abs/2407.19825"
+
+
+- title: "CARLA-GeAR: A Dataset Generator for a Systematic Evaluation of Adversarial Robustness of Deep Learning Vision Models"
+  authors: "F. Nesti, G. Rossolini, G. D’Amico, A. Biondi, G. Buttazzo"
+  venue: "IEEE Transactions on Intelligent Transportation Systems"
+  year: 2024
+  link: "https://ieeexplore.ieee.org/abstract/document/10576049/"
+
+
+- title: "Towards Trustworthy AI: Understanding the Impact of AI Threats and Countermeasures"
+  authors: "G. Rossolini,"
+  venue: "Società Italiana di Intelligence (SOCIN) - to appear"
+  year: 2024
+  link: "https://dta.santannapisa.it/t/etd-12182023-123627/"
+
+
+- title: "Attention-Based Real-Time Defenses for Physical Adversarial Attacks in Vision Applications"
+  authors: "G. Rossolini, A. Biondi, G. Buttazzo"
+  venue: "2024 ACM/IEEE 15th International Conference on Cyber-Physical Systems (ICCPS)"
+  year: 2024
+  link: "https://arxiv.org/abs/2311.11191"
+
+
+- title: "On the real-world adversarial robustness of real-time semantic segmentation models for autonomous driving"
+  authors: "G. Rossolini, F. Nesti, G. D’amico, S. Nair, A. Biondi, G. Buttazzo"
+  venue: "IEEE Transactions on Neural Networks and Learning Systems"
+  year: 2023
+  link: "https://ieeexplore.ieee.org/abstract/document/10268597/"
+
+- title: "TrainSim: A railway simulation framework for LiDAR and camera dataset generation"
+  authors: "G. D’Amico, M. Marinoni, F. Nesti, G. Rossolini, G. Buttazzo, S. Sabina, G. Lauro"
+  venue: "IEEE Transactions on Intelligent Transportation Systems"
+  year: 2023
+  link: "https://ieeexplore.ieee.org/abstract/document/10205499/"
+
+
+- title: "Robust-by-Design Classification via Unitary-Gradient Neural Networks"
+  authors: "F. Brau, G. Rossolini, A. Biondi, G. Buttazzo"
+  venue: "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI2023)"
+  year: 2023
+  link: "https://ojs.aaai.org/index.php/AAAI/article/view/26721"
+
+
+- title: "Defending From Physically-Realizable Adversarial Attacks Through Internal Over-Activation Analysis"
+  authors: "G. Rossolini, F. Nesti, F. Brau, A. Biondi, G. Buttazzo"
+  venue: "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI2023)"
+  year: 2023
+  link: "https://ojs.aaai.org/index.php/AAAI/article/view/26758"
+
+
+- title: "On the Minimal Adversarial Perturbation for Deep Neural Networks with Provable Estimation Error"
+  authors: "F. Brau, G. Rossolini, A. Biondi, G. Buttazzo"
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  year: 2023
+  link: "https://ieeexplore.ieee.org/abstract/document/9847083/"
+
+
+- title: "Evaluating the robustness of semantic segmentation for autonomous driving against real-world adversarial patch attacks"
+  authors: G. Rossolini, F. Nesti, S. Nair, A. Biondi, G. Buttazzo"
+  venue: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision"
+  year: 2022
+  link: "http://openaccess.thecvf.com/content/WACV2022/html/Nesti_Evaluating_the_Robustness_of_Semantic_Segmentation_for_Autonomous_Driving_Against_WACV_2022_paper.html"
+
+
+- title: "in-Car Entertainment via Group-wise Temporary Mobile Social Networking."
+  authors: " M. Cimino, A. Di Tecco, P. Foglia, R. Giannessi, J. Malvatani, CA. Prete, G. Rossolini"
+  venue: "VEHITS 2022"
+  year: 2022
+  link: "https://www.scitepress.org/PublishedPapers/2022/110960/110960.pdf"
+
+
+- title: "Increasing the confidence of deep neural networks by coverage analysis"
+  authors: "G. Rossolini, A. Biondi, G. Buttazzo"
+  venue: "IEEE Transactions on Software Engineering"
+  year: 2022
+  link: "https://ieeexplore.ieee.org/abstract/document/9745342/"

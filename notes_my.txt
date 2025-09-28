@@ -1,0 +1,2 @@
+- 'jekyll server' form terminal in the directory of the project to check locally
+- change the website and update everything. 

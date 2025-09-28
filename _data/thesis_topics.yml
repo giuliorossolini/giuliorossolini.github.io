@@ -1,0 +1,20 @@
+- name: "Adversarial Robustness for Vision"
+  description: "Localized attacks/defenses, universal perturbations, transferability (CNNs vs ViTs)."
+
+- name: "Trustworthy AI for Safety-Critical Systems"
+  description: "Risk-aware metrics, robustness–accuracy trade-offs, runtime monitoring."
+
+- name: "Distributed & Split Inference (Edge–Cloud)"
+  description: "Offloading reliability, early exits, edge-only attacks/defenses, feature-space security."
+
+- name: "LLM Reliability & Efficiency"
+  description: "Reasoning under constraints, robust prompting, and LLM alignment."
+
+- name: "Out-of-Distribution & Uncertainty"
+  description: "OOD detection & calibration under distribution shift."
+
+- name: "Dataset Tools & Benchmarks"
+  description: "Spatial robustness benchmarking (natural + adversarial localized corruptions)."
+
+- name: "Explainability for Robust Systems"
+  description: "Internal activation analysis, attribution-guided defenses, failure mode interpretation."
