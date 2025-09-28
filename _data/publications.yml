@@ -1,6 +1,6 @@
 # _data/publications.yml
 - title: "Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions"
-  authors: "G. M. Pietrosanti, G. Rossolini, A. Biondi, G.Buttazzo"
+  authors: "G. Marchiori Pietrosanti, G. Rossolini, A. Biondi, G.Buttazzo"
   venue: "Pattern Recognition 172:112412"
   year: 2025
   link: "https://www.sciencedirect.com/science/article/pii/S0031320325010738"
