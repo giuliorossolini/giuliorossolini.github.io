@@ -27,7 +27,7 @@ Dates and rooms will be confirmed (TBD).
 2. Adversarial Learning and Attacks  
 3. Adversarial Defenses and Robust Training  
 4. Poisoning Attacks and Backdoors  
-5. Out-of-Distribution Attacks & Uncertainty Analysis  
+5. Out-of-Distribution Detection & Uncertainty Analysis  
 6. Introduction to Privacy Attacks  
 7. Hands-on Laboratories and Research Tips  
 
