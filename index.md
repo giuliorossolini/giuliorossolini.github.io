@@ -42,12 +42,12 @@ layout: default
   <div style="margin-bottom:1rem;">
     🏆 <strong>Sep 2025</strong> — Paper accepted in <em>Pattern Recognition</em> on 
     <strong>Benchmarking the Robustness of Vision Models</strong>. 
-    <a href="PUT_LINK_HERE" target="_blank">Read more →</a>
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250401632M/abstract" target="_blank">Read more →</a>
   </div>
 
   <div style="margin-bottom:1rem;">
     📝 <strong>Sep 2025</strong> — New preprint on <strong>LLM Alignment with GTPO</strong>. 
-    <a href="PUT_LINK_HERE" target="_blank">See preprint →</a>
+    <a href="https://arxiv.org/abs/2508.03772" target="_blank">See preprint</a>
   </div>
 
   <div style="margin-bottom:1rem;">
