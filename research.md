@@ -6,7 +6,7 @@ permalink: /research/
 
 <!-- 🔗 Jump Links -->
 <div style="text-align:center; font-size:1.3em; margin: 1.5em 0;">
-  🔗 Jump to: <a href="#my-motivation">🧠 Research Topics</a> | <a href="#publications">📄 Publications</a> | <a href="#thesis-topics">🎓 Thesis Topics</a> | <a href="#misc">🎓 Misc</a>
+  <a href="#my-motivation">🧠 Research Topics</a> | <a href="#publications">📄 Publications</a> | <a href="#thesis-topics">🎓 Thesis Topics</a> | <a href="#misc"> 📌 Misc</a>
 </div>
 
 
@@ -15,29 +15,24 @@ permalink: /research/
 <div style="text-align:center;">
   <h2 id="my-motivation">🧠 Research Topics </h2>
 </div>
-
-
-<div style="display:flex; align-items:flex-start; gap:20px; margin-top:2em;">
+<div style="display:flex; align-items:flex-start; gap:20px; margin-top:1em;">
   <div style="flex:2;">
 <p>
   My research focuses on improving and understanding the 
   <strong>trustworthiness of AI architectures</strong>. I am particularly interested in the interplay between 
   <strong>robustness, security, and efficiency</strong>, exploring how we can design AI systems 
-  that are both powerful and reliable under real-world constraints. 
-</p>
-
-    <p>Some of the central questions driving my work include:</p>
+  that are both powerful and reliable under real-world constraints. Some of the central questions driving my work include:
+  </p>
     <ul>
-      <li>🛡️ <strong>AI security threats and countermeasures</strong>, with a focus on adversarial robustness in computer vision and natural language processing.</li>
-      <li>⚡ <strong>Computational efficiency and sustainability</strong> of large models, including offloading strategies and early-exit paradigms.</li>
-      <li>🧠 <strong>Explainability and uncertainty estimation</strong> as tools to strengthen trust in AI decisions and to better interpret feature patterns in large and complex vision and NLP models.</li>
-      <li>🤝 <strong>Secure AI collaboration</strong>, both between humans and AI, and among distributed AI models that must remain trustworthy.</li>
-      <li>🚦 <strong>Risk-aware metrics</strong> that capture and evaluate failures of AI in safety-critical domains such as autonomous driving or healthcare.</li>
+      <li>🛡️ <strong>safety and security AI threats and countermeasures</strong>, with a focus on adversarial robustness and out of distribution samples in computer vision and natural language processing.</li>
+      <li>🔍 <strong>Explainability and uncertainty estimation</strong> as tools to strengthen trust in AI decisions and to better interpret feature patterns in large and complex vision and NLP models.</li>
+      <li>🚦 <strong>Risk-aware metrics</strong> to evaluate failures of AI in safety-critical domains such as autonomous driving or healthcare.</li>
     </ul>
 </div>
 </div>
 
-
+<!--  <li>🤝 <strong>Secure AI collaboration</strong>, both between humans and AI, and among distributed AI models that must remain trustworthy.</li> -->
+<!-- <li>⚡ <strong>Computational efficiency and sustainability</strong> of large models, including offloading strategies and early-exit paradigms.</li> -->
 <!-- Quote Box -->
 <div style="text-align:center; margin: 2em auto; font-style: italic; max-width:1000px; border:2px solid #ccc; padding:1.5em; border-radius:8px; background-color:#fafafa;">
   <p>
@@ -133,7 +128,7 @@ Projects span a range of research areas, including (but not limited to) the foll
   <h2 id="misc">📌 Misc (Awards, Career & Services)</h2>
 </div>
 
-<ul style="padding-left:0; line-height:1.7;">
+<ul style="padding-left:0.5; line-height:1.7;">
   <li> PhD Dissertation Prize — Carla Mosca Award, Società Italiana di Intelligence (<a href="https://www.santannapisa.it/it/news/premio-mosca-2025-riconoscimento-giulio-rossolini-della-scuola-superiore-santanna-una-ricerca" target="_blank">link</a>)</li>
   <li> Project Coordinator — “On the Safety and Security of Distributed AI-based Autonomous Multi-Agent Systems,” financed by the Department of Excellence in Robotics & AI, Scuola Superiore Sant’Anna, Pisa.</li>
   <li> Associate Editor for the <em>The Visual Computer</em> journal (since 2024).</li>
@@ -143,7 +138,7 @@ Projects span a range of research areas, including (but not limited to) the foll
 
 
 
-### Contact
+### 📬 Contact
 [giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
 
 #### Last update

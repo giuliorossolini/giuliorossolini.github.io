@@ -11,7 +11,7 @@ You can find the course material either linked within each course’s presentati
 
 - **Trustworthy AI - Scuola Superiore Sant'Anna**  
   (2025/2026) – Co-lecturer in the course offered at Scuola Superiore Sant'Anna by Prof. Andrea Saracino.  
-  Topics of my lectures include: Trustworthy Large Language Models, privacy issues, data contamination, explainable AI (XAI) with LLMs, and prompt engineering.
+  Topics of my lectures include: Trustworthy Large Language Models, privacy issues, data contamination, explainable AI with LLMs, and prompt engineering.
 
 - **Robust and Secure AI - Scuola Superiore Sant'Anna**  
   (2025/2026) – Main lecturer of a 20-hour course delivered in-person at Scuola Superiore Sant'Anna for Ph.D. students. Topics: adversarial robustness and AI security threats, including poisoning attacks, model stealing, and privacy attacks.

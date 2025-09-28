@@ -34,15 +34,15 @@ layout: default
 <!-- ===== Latest News (bottom board) ===== -->
 <!-- ===== Latest News (bottom board) ===== -->
 <div id="latest-news"
-     style="margin-top:2rem; border:2px solid #0077b6; border-radius:12px; padding:18px 20px; background:#e6f2fa; box-shadow:0 4px 12px rgba(0,0,0,0.08);">
+     style="margin-top:2rem; border:2px solid #0077b6; border-radius:20px; padding:18px 20px; background:#e6f2fa; box-shadow:0 4px 12px rgba(46, 180, 241, 0.08);">
   <h3 style="margin-top:0; margin-bottom:1rem; color:#00334d;">
     Latest News!
   </h3>
 
   <div style="margin-bottom:1rem;">
-    🏆 <strong>Sep 2025</strong> — Paper accepted in <em>Pattern Recognition</em> on 
-    <strong>Benchmarking the Robustness of Vision Models</strong>. 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250401632M/abstract" target="_blank">Read more →</a>
+    🏆 <strong>Sep 2025</strong> — Paper accepted in <em>Pattern Recognition</em>  
+    <strong> on the Robustness of Vision Models</strong>. 
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250401632M/abstract" target="_blank">Link</a>
   </div>
 
   <div style="margin-bottom:1rem;">
