@@ -25,6 +25,8 @@ You can find the course material either linked within each course’s presentati
   <p>(2021/2022, 2022/2023, 2024/2025, 2025/2026)</p>
   Co-lecturer in the course offered at Scuola Superiore Sant'Anna by Prof. Giorgio Buttazzo. Topics of my lectures include explainable AI (XAI), deep learning architectures in computer vision, domain generalization and adaptation, and out-of-distribution detection.
 
+--- 
+
 ## 📚 Previous Courses
 
 - **Introduction to Secure AI - Polytechnic Institute of Porto**  
