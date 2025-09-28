@@ -6,7 +6,7 @@ permalink: /research/
 
 <!-- 🔗 Jump Links -->
 <div style="text-align:center; font-size:1.3em; margin: 1.5em 0;">
-  <a href="#my-motivation">🧠 Research Topics</a> | <a href="#publications">📄 Publications</a> | <a href="#thesis-topics">🎓 Thesis Topics</a> | <a href="#misc"> 📌 Misc</a>
+  <a href="#my-motivation"> Research Topics</a> | <a href="#publications"> Publications</a> | <a href="#thesis-topics"> Thesis Topics</a> | <a href="#misc">  Misc</a>
 </div>
 
 
