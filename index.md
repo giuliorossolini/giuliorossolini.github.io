@@ -3,18 +3,6 @@ layout: default
 ---
 
 
-<!-- ===== Hero / Heading ===== -->
-<div style="margin: 1.5rem 0 2rem 0;">
-  <h1 style="margin-bottom:.2rem;text-align:center">Giulio Rossolini</h1>
-  <p style="font-size:1.1rem; text-align:center; margin-top:.4rem;">
-    Assistant Professor (RTD-A) on Safe & Secure AI, <strong>Scuola Superiore Sant’Anna</strong> 
-  </p>
-
-
-<hr style="margin:1.5rem 0;"/>
-
-
-
 
 
 <!-- ===== Bio & Research (single column) ===== -->
@@ -48,7 +36,7 @@ layout: default
 <div id="latest-news"
      style="margin-top:2rem; border:2px solid #0077b6; border-radius:12px; padding:18px 20px; background:#e6f2fa; box-shadow:0 4px 12px rgba(0,0,0,0.08);">
   <h3 style="margin-top:0; margin-bottom:1rem; color:#00334d;">
-    Latest News ✨
+    Latest News!
   </h3>
 
   <div style="margin-bottom:1rem;">
@@ -69,13 +57,12 @@ layout: default
 
 
 
-  <!-- Profile image at the bottom -
+  <!-- Profile image at the bottom - -->
   <div style="text-align:center; margin-top:2rem;">
     <img src="{{ site.baseurl }}/images/profilo.png" alt="Profile photo"
          style="width:50%; max-width:260px; height:auto; border-radius:1000px; box-shadow:0 2px 10px rgba(0,0,0,.12);" />
   </div>
 </div>
--->
 
  <!-- Contact + Last update -->
   <div style="margin-top:1rem;">
