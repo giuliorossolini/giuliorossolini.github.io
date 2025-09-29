@@ -39,7 +39,7 @@ layout: default
   <div style="margin-bottom:1rem;">
     🏆 <strong>Sep 2025</strong> — Paper accepted in <em>Pattern Recognition</em>  
     <strong> on the Robustness of Vision Models</strong>. 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250401632M/abstract" target="_blank">Link</a>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325010738" target="_blank">Link</a>
   </div>
 
   <div style="margin-bottom:1rem;">
