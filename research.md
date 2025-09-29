@@ -14,7 +14,7 @@ permalink: /research/
 
 <div style="text-align:center;">
   <h2 id="my-motivation">🧠 Research Topics </h2>
-</div>carla
+</div>
 <div style="display:flex; align-items:flex-start; gap:20px; margin-top:1em;">
   <div style="flex:2;">
 <p>
