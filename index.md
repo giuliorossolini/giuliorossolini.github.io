@@ -12,7 +12,7 @@ layout: default
     for <strong>cyber-physical systems</strong> and <strong>computer vision</strong>, under the supervision of
     <a href="http://retis.sssup.it/~giorgio/" target="_blank" rel="noopener">Prof. Giorgio Buttazzo</a> and
     <a href="https://retis.sssup.it/~a.biondi/" target="_blank" rel="noopener">Prof. Alessandro Biondi</a>.
-    In 2023 I visited the <strong>Computer Vision Laboratory (CVLab)</strong> at
+    In 2023, I visited the <strong>Computer Vision Laboratory (CVLab)</strong> at
     <strong>EPFL</strong> with
     <a href="https://people.epfl.ch/mathieu.salzmann" target="_blank" rel="noopener">Dr. Mathieu Salzmann</a>,
     studying robustness of self-attention and adaptive learning for autonomous driving.
@@ -55,11 +55,13 @@ layout: default
 
 
   <!-- Profile image at the bottom - -->
+  <!--
   <div style="text-align:center; margin-top:2rem;">
     <img src="{{ site.baseurl }}/images/profilo.png" alt="Profile photo"
          style="width:50%; max-width:260px; height:auto; border-radius:1000px; box-shadow:0 2px 10px rgba(0,0,0,.12);" />
   </div>
 </div>
+-->
 
  <!-- Contact + Last update -->
   <div style="margin-top:1rem;">
