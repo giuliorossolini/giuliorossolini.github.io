@@ -14,7 +14,7 @@ permalink: /research/
 
 <div style="text-align:center;">
   <h2 id="my-motivation">🧠 Research Topics </h2>
-</div>
+</div>carla
 <div style="display:flex; align-items:flex-start; gap:20px; margin-top:1em;">
   <div style="flex:2;">
 <p>
@@ -129,7 +129,7 @@ Projects span a range of research areas, including (but not limited to) the foll
 </div>
 
 <ul style="padding-left:0.5; line-height:1.7;">
-  <li> PhD Dissertation Prize — Carla Mosca Award, Società Italiana di Intelligence (<a href="https://www.santannapisa.it/it/news/premio-mosca-2025-riconoscimento-giulio-rossolini-della-scuola-superiore-santanna-una-ricerca" target="_blank">link</a>)</li>
+  <li> PhD Dissertation Prize — Carlo Mosca Award, Società Italiana di Intelligence (<a href="https://www.santannapisa.it/it/news/premio-mosca-2025-riconoscimento-giulio-rossolini-della-scuola-superiore-santanna-una-ricerca" target="_blank">link</a>)</li>
   <li> Project Coordinator — “On the Safety and Security of Distributed AI-based Autonomous Multi-Agent Systems,” financed by the Department of Excellence in Robotics & AI, Scuola Superiore Sant’Anna, Pisa.</li>
   <li> Associate Editor for the <em>The Visual Computer</em> journal (since 2024).</li>
   <li> Reviewer / Program Committee Member for several AI conferences and journals — IEEE T-PAMI, IEEE T-IFS, IEEE T-ITS, IEEE T-NNLS, ICCV 2023, ECCV 2024, CVPR 2025, NeurIPS 2025, AAAI 2023–2026, and others.</li>

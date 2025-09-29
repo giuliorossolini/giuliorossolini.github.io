@@ -2,9 +2,6 @@
 layout: default
 ---
 
-
-
-
 <!-- ===== Bio & Research (single column) ===== -->
 <div style="max-width:900px; margin:0 auto;">
 
