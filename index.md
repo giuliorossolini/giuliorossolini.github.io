@@ -9,7 +9,7 @@ layout: default
     Hi! I am an Assistant Professor (RTD-A) at the <strong>Scuola Superiore Sant’Anna</strong> in Pisa,
     working on <strong>safe and secure artificial intelligence</strong>. I received my Ph.D. in
     <em>Emerging Digital Technologies</em> (2024), focusing on <strong>safety and robustness</strong> of AI
-    for cyber-physical systems and <strong>computer vision</strong>, under the supervision of
+    for <strong>cyber-physical systems</strong> and <strong>computer vision</strong>, under the supervision of
     <a href="http://retis.sssup.it/~giorgio/" target="_blank" rel="noopener">Prof. Giorgio Buttazzo</a> and
     <a href="https://retis.sssup.it/~a.biondi/" target="_blank" rel="noopener">Prof. Alessandro Biondi</a>.
     In 2023 I visited the <strong>Computer Vision Laboratory (CVLab)</strong> at
