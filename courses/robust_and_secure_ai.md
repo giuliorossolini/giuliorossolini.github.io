@@ -13,10 +13,10 @@ The course is designed to provide an introductory yet technical understanding of
 
 ## 🛠️ Format & Exam
 - **Lectures**: 20 hours (in-person).  
-- **Exam (2CFU)**: Project work  + oral discussion.  
+- **Exam (2 CFU)**: Project work  + oral discussion.  
 
 
-If you would like to attend the course in the first semester of the 2025–2026 academic year, please fill out the following form: [Course Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScTUHxgIfQfhJBH27NgQjoLAZyofrhmkkvahI11xfCvdnjn_w/viewform)
+To attend the course in the first semester of the 2025–2026 academic year, please fill out the following form: [Course Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScTUHxgIfQfhJBH27NgQjoLAZyofrhmkkvahI11xfCvdnjn_w/viewform)
 
 
 ## 🗓️ Schedule

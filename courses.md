@@ -11,7 +11,7 @@ You can find the course material either linked within each course’s presentati
 
 - **[Robust and Secure AI - Scuola Superiore Sant'Anna](/courses/robust-secure-ai/)**  
   <p>(2025/2026)</p>
-  Main lecturer of a 20-hour course delivered in-person at Scuola Superiore Sant'Anna for Ph.D. students. Topics: adversarial robustness and AI security threats, including poisoning attacks, model stealing, and privacy attacks.
+  Main lecturer of a 20-hours course delivered in-person at Scuola Superiore Sant'Anna for Ph.D. students. Topics: adversarial robustness and AI security threats, including poisoning attacks, model stealing, and privacy attacks.
 
 ---
 
