@@ -10,7 +10,7 @@ permalink: /courses/robust-secure-ai/
 ## 📖 Course Overview
 The course is designed to provide an introductory yet technical understanding of the security vulnerabilities and threats that modern AI systems face, with a focus on deep neural networks and computer vision applications. Participants will explore key definitions and techniques for designing and implementing AI-based security attacks and safety threats while also gaining a foundational understanding of how to protect AI systems against them. A portion of the course will be devoted to hands-on laboratory sessions, where participants will implement attacks and countermeasures in practical deep neural network applications.
 
-The course is organized into the following lectures (20 hours total), where main topics of the course are: 
+The main topics of the course are organized as follows:
 1. Introduction and Foundations of AI  
 2. Adversarial Attacks and Robustness  
 3. Adversarial Defenses and Robust Training  
@@ -22,12 +22,12 @@ The course is organized into the following lectures (20 hours total), where main
 
 ## 🛠️ Format & Exam
 - **Lectures**: 20 hours (in-person).  
-- **Exam (2 CFU)**: Project work  + oral discussion.  
+- **Exam (2 CFU)**: Project/Research work  + oral discussion.  
 
 
 To attend the course in the first semester of the 2025–2026 academic year, please fill out the following form: [Course Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScTUHxgIfQfhJBH27NgQjoLAZyofrhmkkvahI11xfCvdnjn_w/viewform). 
 
-A Teams channel will be set up soon for feedback, questions, and announcements.
+A Microsoft Teams channel will be set up soon for feedback, questions, and announcements.
 
 
 ## 🗓️ Schedule
@@ -38,7 +38,7 @@ Scheduled lectures are showed in the following, while next dates and rooms will 
 
 - Lecture 2 – Adversarial Attacks and DNN Robustness – 14 October (14:00–17:00), PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- TBD (likely same slots on the following Monday and Tuesday of the same week)
+- TBD (likely same slots on the following Monday and Tuesday)
 
 
 
