@@ -24,7 +24,7 @@ The course is organized into the following lectures (20 hours total).
 Dates and rooms will be confirmed (TBD).
 
 1. Introduction and Foundations of AI  
-2. Adversarial Learning and Attacks  
+2. Adversarial Attacks and Robustness  
 3. Adversarial Defenses and Robust Training  
 4. Poisoning Attacks and Backdoors  
 5. Out-of-Distribution Detection & Uncertainty Analysis  
