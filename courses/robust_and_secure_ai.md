@@ -25,7 +25,9 @@ The course is organized into the following lectures (20 hours total).  , where m
 - **Exam (2 CFU)**: Project work  + oral discussion.  
 
 
-To attend the course in the first semester of the 2025–2026 academic year, please fill out the following form: [Course Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScTUHxgIfQfhJBH27NgQjoLAZyofrhmkkvahI11xfCvdnjn_w/viewform)
+To attend the course in the first semester of the 2025–2026 academic year, please fill out the following form: [Course Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScTUHxgIfQfhJBH27NgQjoLAZyofrhmkkvahI11xfCvdnjn_w/viewform). 
+
+A Teams channel will be set up soon for feedback, questions, and announcements.
 
 
 ## 🗓️ Schedule
@@ -36,7 +38,7 @@ Scheduled lectures are showed in the following, while next dates and rooms will 
 
 - Lecture 2 – Adversarial Attacks and DNN Robustness – 14 October (14:00–17:00), PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- TBD
+- TBD (likely same slots on the following Monday and Tuesday of the same week)
 
 
 
