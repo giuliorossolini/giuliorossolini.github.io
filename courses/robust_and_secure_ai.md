@@ -10,7 +10,7 @@ permalink: /courses/robust-secure-ai/
 ## 📖 Course Overview
 The course is designed to provide an introductory yet technical understanding of the security vulnerabilities and threats that modern AI systems face, with a focus on deep neural networks and computer vision applications. Participants will explore key definitions and techniques for designing and implementing AI-based security attacks and safety threats while also gaining a foundational understanding of how to protect AI systems against them. A portion of the course will be devoted to hands-on laboratory sessions, where participants will implement attacks and countermeasures in practical deep neural network applications.
 
-The course is organized into the following lectures (20 hours total).  , where main topics of the course are: 
+The course is organized into the following lectures (20 hours total), where main topics of the course are: 
 1. Introduction and Foundations of AI  
 2. Adversarial Attacks and Robustness  
 3. Adversarial Defenses and Robust Training  
