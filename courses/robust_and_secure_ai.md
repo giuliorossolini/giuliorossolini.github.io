@@ -34,9 +34,9 @@ A Microsoft Teams channel will be set up soon for feedback, questions, and annou
 
 Scheduled lectures are showed in the following, while next dates and rooms will be confirmed soon.
 
-- Lecture 1 – Introduction and Foundations of DNNs in Vision – 13 October (14:00–17:00), PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 1 – Introduction and Foundations of DNNs in Vision – <strong>13 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 2 – Adversarial Attacks and DNN Robustness – 14 October (14:00–17:00), PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 2 – Adversarial Attacks and DNN Robustness – <strong> 14 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
 - TBD (likely same slots on the following Monday and Tuesday)
 
