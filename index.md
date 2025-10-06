@@ -51,8 +51,6 @@ layout: default
   </div>
 </div>
 
-
-
   <!-- Profile image at the bottom - -->
   <!--
   <div style="text-align:center; margin-top:2rem;">
