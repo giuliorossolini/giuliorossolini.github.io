@@ -37,7 +37,7 @@ layout: default
 
 
   <div style="margin-bottom:1rem;">
-    🏆 <strong>Sep 2025</strong> — Paper accepted in <em>Internet Of Things</em>  
+    🏆 <strong>Oct 2025</strong> — Paper accepted in <em>Internet Of Things</em>  
     <strong> on the robustness of distributed DNNs</strong>. 
     <a href="https://arxiv.org/pdf/2507.07259?" target="_blank">Link</a>
   </div>
