@@ -35,13 +35,13 @@
 
 - title: "Video Deblurring by Sharpness Prior Detection and Edge Information"
   authors: "Y, Tian, F. Brau, G. Rossolini, G. Buttazzo, H. Meng"
-  venue: "Internet of Things"
+  venue: "arXiv"
   year: 2025
   link: "https://arxiv.org/abs/2501.12246"
 
 - title: "Exploiting Edge Features for Transferable Adversarial Attacks in Distributed Machine Learning"
   authors: "G. Rossolini, F.Brau, A. Biondi, B.Biggio, G. Buttazzo"
-  venue: "(preprint) arXiv"
+  venue: "Internet of Things"
   year: 2025
   arxiv: "https://arxiv.org/abs/2507.07259"
 
