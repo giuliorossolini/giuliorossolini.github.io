@@ -43,6 +43,12 @@ Scheduled lectures are showed in the following, while next dates and rooms will 
 
 
 
+## 📂 Lectures
+
+You can find all lectures and notebooks in the following OneDrive folder: [https://alumnisssup-my.sharepoint.com/:f:/g/personal/giulio_rossolini_santannapisa_it/Ep5SbaGq-8xHgDAH-gKfdv8B3YEg37HxKWmyNnvAGOFrVA?e=EiZqt4]
+
+The folder is password-protected. Attendees can contact me directly to request access.
+
 
 ---
 
