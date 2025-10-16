@@ -40,13 +40,11 @@ Scheduled lectures are showed in the following, while next dates and rooms will 
 
 - Lecture 3 – TBD –  <strong> 22 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 4 – TBD –  <strong> 22 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 4 – TBD –  <strong> 23 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 5 – TBD –  <strong> 23 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 5 – TBD –  <strong> 28 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 6 – TBD –  <strong> 28 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
-
-- Lecture 7 – TBD –  <strong> 29 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 6 – TBD –  <strong> 29 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
 - Lecture 7 – TBD –  <strong> 4 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
