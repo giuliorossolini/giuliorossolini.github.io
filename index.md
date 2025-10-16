@@ -61,6 +61,7 @@ layout: default
 
   <div style="margin-bottom:1rem;">
     🏆 <strong>Sep 2025</strong> — Awarded the <strong>PhD Dissertation Prize</strong> from the Italian Society of Intelligence.
+  <a href="https://www.santannapisa.it/it/news/premio-mosca-2025-riconoscimento-giulio-rossolini-della-scuola-superiore-santanna-una-ricerca" target="-black">Link </a>
   </div>
 </div>
 
