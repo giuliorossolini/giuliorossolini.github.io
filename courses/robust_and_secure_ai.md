@@ -52,7 +52,6 @@ Scheduled lectures are showed in the following, while next dates and rooms will 
 
 - Lecture 8 – TBD –  <strong> 5 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- TBD (likely same slots on the following Monday and Tuesday)
 
 
 
