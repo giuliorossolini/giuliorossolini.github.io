@@ -40,16 +40,16 @@ Scheduled lectures are showed in the following, while next dates and rooms will 
 
 - Lecture 3 – Adversarial Defenses –  <strong> 22 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 4 – TBD –  <strong> 23 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 4 – Out of Distribution and Uncertainty –  <strong> 23 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 <!-- Out of distrbution and uncertainty -->
 
-- Lecture 5 – TBD –  <strong> 28 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 5 – Explainable AI and Challenges –  <strong> 28 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 <!-- Explainable AI -->
 
-- Lecture 6 – TBD –  <strong> 29 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 6 – Poisoning and Backdoor Attacks –  <strong> 29 October (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 <!-- Poisoning and Backdoor Attacks -->
 
-- Lecture 7 – TBD –  <strong> 4 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 7 – DNNs Stealing and Privacy Attacks –  <strong> 4 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 <!-- Stealing and Privacy Issues -->
 
 - Lecture 8 – TBD –  <strong> 5 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1

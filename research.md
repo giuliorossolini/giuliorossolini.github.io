@@ -129,6 +129,7 @@ Projects span a range of research areas, including (but not limited to) the foll
 </div>
 
 <ul style="padding-left:0.5; line-height:1.7;">
+  <li> Awarded the national “Premio Giovani Ricercatrici e Ricercatori 2025” in Cybersecurity by Gruppo 2003.
   <li> PhD Dissertation Prize — Carlo Mosca Award, Società Italiana di Intelligence (<a href="https://www.santannapisa.it/it/news/premio-mosca-2025-riconoscimento-giulio-rossolini-della-scuola-superiore-santanna-una-ricerca" target="_blank">link</a>)</li>
   <li> Project Coordinator — “On the Safety and Security of Distributed AI-based Autonomous Multi-Agent Systems,” financed by the Department of Excellence in Robotics & AI, Scuola Superiore Sant’Anna, Pisa.</li>
   <li> Associate Editor for the <em>The Visual Computer</em> journal (since 2024).</li>
