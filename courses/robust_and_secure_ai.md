@@ -52,7 +52,7 @@ Scheduled lectures are showed in the following, while next dates and rooms will 
 - Lecture 7 – DNNs Stealing and Privacy Attacks –  <strong> 4 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 <!-- Stealing and Privacy Issues -->
 
-- Lecture 8 – TBD –  <strong> 5 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 8 – Laboratory and Conclusion –  <strong> 5 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 <!-- ...?  -->
 
 
