@@ -144,4 +144,4 @@ Projects span a range of research areas, including (but not limited to) the foll
 [giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
 
 ### Last update
-July, 2025
+Oct, 2025
