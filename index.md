@@ -37,10 +37,13 @@ layout: default
 
 
   <div style="margin-bottom:1rem;">
-    🏆 <strong>Oct 2025</strong> — Recipient of the 2025 National Prize for Young Italian Researcher in Cybersecurity.
+    🏆 <strong>Nov 2025</strong> — Member of the Information Forensics and Security Technical Committee 
   </div>
 
 
+  <div style="margin-bottom:1rem;">
+    🏆 <strong>Oct 2025</strong> — Recipient of the 2025 National Prize for Young Italian Researcher in Cybersecurity.
+  </div>
 
   <div style="margin-bottom:1rem;">
     🏆 <strong>Oct 2025</strong> — Paper accepted in <em>Internet Of Things</em>  
@@ -52,11 +55,6 @@ layout: default
     🏆 <strong>Sep 2025</strong> — Paper accepted in <em>Pattern Recognition</em>  
     <strong> on the robustness of vision models</strong>. 
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325010738" target="_blank">Link</a>
-  </div>
-
-  <div style="margin-bottom:1rem;">
-    📝 <strong>Sep 2025</strong> — New preprint on <strong>LLM Alignment with GTPO</strong>. 
-    <a href="https://arxiv.org/abs/2508.03772" target="_blank">See preprint</a>
   </div>
 
   <div style="margin-bottom:1rem;">
