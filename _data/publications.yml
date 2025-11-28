@@ -1,4 +1,11 @@
 # _data/publications.yml
+
+- title: "KGQuest: Template-Driven QA Generation from Knowledge Graphs with LLM-Based Refinement"
+  authors: "S. Nayab, M. Simoni, G. Rossolini, A. Saracino"
+  venue: "(preprint) arXiv""
+  year: 2025
+  link: "https://arxiv.org/abs/2511.11258"
+
 - title: "Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions"
   authors: "G. Marchiori Pietrosanti, G. Rossolini, A. Biondi, G.Buttazzo"
   venue: "Pattern Recognition 172:112412"
