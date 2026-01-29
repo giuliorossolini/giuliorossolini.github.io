@@ -1,7 +1,19 @@
 # _data/publications.yml
 
+- title: "How Worst-Case Are Adversarial Attacks? Linking Adversarial and Perturbation Robustness"
+  authors: "G.Rossolini"
+  venue: "(preprint) arXiv"
+  year: 2026
+  link: "https://arxiv.org/abs/2601.14519"
+
+- title: "On the Hidden Objective Biases of Group-based Reinforcement Learning"
+  authors: "A. Fontana, M. Simoni, G. Rossolini, A. Saracino, P. Mori"
+  venue: "(preprint) arXiv"
+  year: 2026
+  link: "https://arxiv.org/abs/2601.05002"
+
 - title: "KGQuest: Template-Driven QA Generation from Knowledge Graphs with LLM-Based Refinement"
-  authors: "S. Nayab, M. Simoni, G. Rossolini, A. Saracino"
+  authors: "S. Nayab, M. Simoni, G. Rossolini, A.Saracino"
   venue: "(preprint) arXiv"
   year: 2025
   link: "https://arxiv.org/abs/2511.11258"
@@ -12,8 +24,8 @@
   year: 2025
   link: "https://www.sciencedirect.com/science/article/abs/pii/S0031320325010738"
 
-- title: "GTPO: Trajectory-Based Policy Optimization in Large Language Models"
-  authors: "M Simoni, A. Fontana, G. Rossolini, A. Saracino"
+- title: "GTPO: Stabilizing Group Relative Policy Optimization via Gradient and Entropy Control"
+  authors: "M Simoni, A. Fontana, G. Rossolini, A. Saracino, P. Mori"
   venue: "(preprint) arXiv"
   year: 2025
   link: "https://arxiv.org/abs/2508.03772"
