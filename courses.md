@@ -27,10 +27,10 @@ You can find the course material either linked within each course’s presentati
 
 --- 
 
-- **[How To Do Research - Scuola Superiore Sant'Anna](https://retis.sssup.it/~giorgio/courses/h2d/h2d.html)** 
+- **[How to do Research - Scuola Superiore Sant'Anna](https://retis.sssup.it/~giorgio/courses/h2d/h2d.html)** 
   <p>(2025/2026)</p>
   Invited presentation in the PhD course offered at Scuola Superiore Sant’Anna by Prof. Giorgio Buttazzo. The lecture discusses the current impact of generative AI in academia, with particular attention to how conferences are reshaping guidelines for writing and peer review. The presentation aimed to highlight key aspects of the responsible use of these tools and to examine how a lack of awareness may affect the future of human knowledge.
-The slides publicly available [HERE](https://alumnisssup-my.sharepoint.com/:b:/g/personal/giulio_rossolini_santannapisa_it/IQDCpTJ9XVMWS4NQf65P_36KAb9qxCvo24XHiwbTpiekQ4U?e=2BzwgA).
+Slides publicly available [HERE](https://alumnisssup-my.sharepoint.com/:b:/g/personal/giulio_rossolini_santannapisa_it/IQDCpTJ9XVMWS4NQf65P_36KAb9qxCvo24XHiwbTpiekQ4U?e=2BzwgA).
 
 --- 
 
