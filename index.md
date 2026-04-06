@@ -38,11 +38,11 @@ layout: default
 
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>Apr 2026</strong> — Our <a href="https://arxiv.org/abs/2601.05002" target="_blank">paper</a> was accepted to ACL 2026 (main conference). Great work, Aleksander and Marco!
+  🏆 <strong>Apr 2026</strong> — <a href="https://arxiv.org/abs/2601.05002" target="_blank">Paper</a> accepted to ACL 2026 (main conference)! Great work, Aleksander and Marco!
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>Feb 2026</strong> — The <a href="https://arxiv.org/abs/2601.14519" target="_blank">preprint</a> of my latest personal paper on the use of adversarial attacks for safety evaluation
+  🏆 <strong>Feb 2026</strong> — <a href="https://arxiv.org/abs/2601.14519" target="_blank">Preprint</a> of my positional paper on the use of adversarial attacks for safety evaluation
 </div>
 
   <div style="margin-bottom:1rem;">
