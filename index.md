@@ -42,7 +42,7 @@ layout: default
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>Feb 2026</strong> — <a href="https://arxiv.org/abs/2601.14519" target="_blank">Preprint</a> of my positional paper on the use of adversarial attacks for safety evaluation
+  🏆 <strong>Feb 2026</strong> — <a href="https://arxiv.org/abs/2601.14519" target="_blank">Preprint</a> of my "position" paper on the use of adversarial attacks for safety evaluation
 </div>
 
   <div style="margin-bottom:1rem;">
