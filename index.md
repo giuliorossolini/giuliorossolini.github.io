@@ -38,7 +38,7 @@ layout: default
 
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>Apr 2026</strong> — <a href="https://arxiv.org/abs/2601.05002" target="_blank">Paper</a> accepted to ACL 2026 (main conference)! Great work, Aleksander and Marco!
+  🏆 <strong>Apr 2026</strong> — <a href="https://arxiv.org/abs/2601.05002" target="_blank">Paper</a> accepted to ACL 2026! Great work, Aleksander and Marco!
 </div>
 
 <div style="margin-bottom:1rem;">
