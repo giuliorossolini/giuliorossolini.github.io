@@ -1,5 +1,12 @@
 # _data/publications.yml
 
+- title: "Learning Robustness at Test-Time from a Non-Robust Teacher"
+  authors: "S.Bianchettin, G.Rossolini, G.Buttazzo"
+  venue: "arXiv"
+  year: 2026
+  link: "https://arxiv.org/abs/2604.11590"
+
+
 - title: "How Worst-Case Are Adversarial Attacks? Linking Adversarial and Perturbation Robustness"
   authors: "G.Rossolini"
   venue: "arXiv"
