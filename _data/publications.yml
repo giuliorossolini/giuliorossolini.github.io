@@ -1,5 +1,19 @@
 # _data/publications.yml
 
+
+- title: "PairedGTA: Generating Driving Datasets for Controlled Photometric Shift Analysis"
+  authors: "A Chianese, G Rossolini, A Biondi, M Cococcioni, G Buttazzo"
+  venue: "arXiv"
+  year: 2026
+  link: "https://arxiv.org/pdf/2606.01192"
+
+
+- title: "Detecting Microarchitectural Attacks in Hypervisor-based Mixed-Criticality Systems"
+  authors: "R.Canal, G.Martins, G.Gracioli, G.Rossolini, D.Casini"
+  venue: "31st IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2026)"
+  year: 2026
+
+
 - title: "Learning Robustness at Test-Time from a Non-Robust Teacher"
   authors: "S.Bianchettin, G.Rossolini, G.Buttazzo"
   venue: "arXiv"
