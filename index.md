@@ -6,7 +6,7 @@ layout: default
 <div style="max-width:900px; margin:0 auto;">
 
   <p>
-    Hi! I am an Assistant Professor (RTD-A) at the <strong>Scuola Superiore Sant’Anna</strong> in Pisa,
+    Hi! I am a Tenure-Track Assistant Professor (RTT) at the <strong>Scuola Superiore Sant’Anna</strong> in Pisa,
     working on <strong>safe and secure artificial intelligence</strong>. I received my Ph.D. in
     <em>Emerging Digital Technologies</em> (2024), focusing on <strong>safety and robustness</strong> of AI
     for <strong>cyber-physical systems</strong> and <strong>computer vision</strong>, under the supervision of

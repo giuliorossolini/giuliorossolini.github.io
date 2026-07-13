@@ -1,6 +1,20 @@
 # _data/publications.yml
 
 
+
+- title: "DantinoX: A Unified  Framework for Multi-Paradigm Language Modeling"
+  authors: "M Simoni, A Fontana, G Rossolini, A Saracino"
+  venue: "arXiv"
+  year: 2026
+  link: "https://dantinox.readthedocs.io/en/latest/quickstart.html"
+
+
+- title: "Adversarial Decoys: Misdirecting Attention-Based Defenses in ViT"
+  authors: "G Marchiori Pietrosanti, G Rossolini, G Buttazzo"
+  venue: "arXiv"
+  year: 2026
+  link: "https://arxiv.org/abs/2607.07922"
+
 - title: "PairedGTA: Generating Driving Datasets for Controlled Photometric Shift Analysis"
   authors: "A Chianese, G Rossolini, A Biondi, M Cococcioni, G Buttazzo"
   venue: "arXiv"
