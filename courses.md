@@ -10,8 +10,8 @@ You can find the course material either linked within each course’s presentati
 ## 📘 Active Courses
 
 - **[Robust and Secure AI - Scuola Superiore Sant'Anna](/courses/robust-secure-ai/)**  
-  <p>(2025/2026)</p>
-  Main lecturer of a 20-hours course delivered in-person at Scuola Superiore Sant'Anna for Ph.D. students. Topics: adversarial robustness and AI security threats, including poisoning attacks, model stealing, and privacy attacks.
+  <p>(2026/2027)</p>
+  Main lecturer of a 30-hours course delivered in-person at Scuola Superiore Sant'Anna for Ph.D. students. Topics: adversarial robustness and AI security threats, including poisoning attacks, model stealing, and privacy attacks.
 
 ---
 
@@ -21,9 +21,9 @@ You can find the course material either linked within each course’s presentati
   Topics of my lectures include: Trustworthy Large Language Models, privacy issues, data contamination, explainable AI with LLMs, and prompt engineering.
 
 ---
-- **[Neural Networks and Deep Learning - Scuola Superiore Sant'Anna](http://retis.sssup.it/~giorgio/courses/neural/nn.html)** 
-  <p>(2021/2022, 2022/2023, 2024/2025, 2025/2026)</p>
-  Co-lecturer in the course offered at Scuola Superiore Sant'Anna by Prof. Giorgio Buttazzo. Topics of my lectures include explainable AI (XAI), deep learning architectures in computer vision, domain generalization and adaptation, and out-of-distribution detection.
+- **[Neural Networks and Deep Learning - Scuola Superiore Sant'Anna](/courses/nndl-trust-ai/)** 
+  <p>(2021/2022, 2022/2023, 2024/2025, 2025/2026, 2026/2027)</p>
+  Main lecturer of a module in the [NNDL](https://retis.santannapisa.it/~giorgio/courses/neural/nn.html) course offered at Scuola Superiore Sant'Anna by Prof. Giorgio Buttazzo. Topics of my lectures include explainable AI, deep learning architectures in computer vision, domain generalization and adaptation, and out-of-distribution detection in autonomous driving.
 
 --- 
 
