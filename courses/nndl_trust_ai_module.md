@@ -23,7 +23,7 @@ The main topics of the course are organized as follows:
 - **Lectures**: 20 hours (remote).  
 - **Exam (2 CFU)**: Project/Research work  + oral discussion.  
 
-TBD (availbel soon)
+TBD (available soon)
 
 ## 🗓️ Schedule
 
@@ -41,7 +41,9 @@ The folder is password-protected. Attendees can contact me directly to request a
 
 ### 📬 Contact
 [giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
+
 [federico.nesti@santannapisa.it](mailto:federico.nesti@santannapisa.it)
+
 [daniel.casini@santannapisa.it](mailto:daniel.casini@santannapisa.it)
 
 
