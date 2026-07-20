@@ -21,7 +21,7 @@ You can find the course material either linked within each course’s presentati
   Topics of my lectures include: Trustworthy Large Language Models, privacy issues, data contamination, explainable AI with LLMs, and prompt engineering.
 
 ---
-- **[NNDL - Trustworthy AI and Applications [III Module] -  - Scuola Superiore Sant'Anna (ONLINE)](/courses/nndl-trust-ai/)** 
+- **[NNDL - Trustworthy AI and Applications [III Module] -  Scuola Superiore Sant'Anna (ONLINE)](/courses/nndl-trust-ai/)** 
   <p>(2021/2022, 2022/2023, 2024/2025, 2025/2026, 2026/2027)</p>
   Main lecturer of a 20-hours module in the [NNDL course](https://retis.santannapisa.it/~giorgio/courses/neural/nn.html)  remotely by Prof. Giorgio Buttazzo. Topics of my lectures include explainable AI, deep learning architectures in computer vision, domain generalization and adaptation, and out-of-distribution detection in autonomous driving.
 
