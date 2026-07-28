@@ -34,11 +34,7 @@ A Microsoft Teams channel will be set up soon for feedback, questions, and annou
 TBD — Late October to November 2026 (First Semester)
 
 
-
-
 ## 📂 Lectures
-
-
 
 ---
 
@@ -48,4 +44,4 @@ TBD — Late October to November 2026 (First Semester)
 
 
 ## MISC
-**[Previous edition (2025/2026)](/courses/material/robust-and-secure-ai_202526)** 
+**[Previous edition (2025/2026)](/courses/material/robust-secure-ai_202526)** 
