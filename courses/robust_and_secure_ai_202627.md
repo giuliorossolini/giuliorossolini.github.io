@@ -50,4 +50,4 @@ TBD — Late October to November 2026 (First Semester)
 
 
 ## MISC
-**[NNDL - Trustworthy AI and Applications [III Module] -  Scuola Superiore Sant'Anna (ONLINE)](/courses/material/robust_and_secure_ai_20252026)** 
+**[NNDL - Trustworthy AI and Applications [III Module] -  Scuola Superiore Sant'Anna (ONLINE)](/courses/material/robust-and-secure-ai_202526)** 

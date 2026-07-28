@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robust and Secure AI - Ph.D. Course (20 hours)
-permalink: /courses/robust-secure-ai/
+permalink: /courses/robust-secure-ai-202526/
 ---
 
 
