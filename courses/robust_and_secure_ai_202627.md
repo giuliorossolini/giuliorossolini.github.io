@@ -11,14 +11,12 @@ permalink: /courses/robust-secure-ai/
 The course is designed to provide an introductory yet technical understanding of the security vulnerabilities and threats that modern AI systems face, with a focus on deep neural networks and computer vision applications. Participants will explore key definitions and techniques for designing and implementing AI-based security attacks and safety threats while also gaining a foundational understanding of how to protect AI systems against them. A portion of the course will be devoted to hands-on laboratory sessions, where participants will implement attacks and countermeasures in practical deep neural network applications.
 
 The main topics of the course are organized as follows:
-1. AI Foundations, Threat Modeling, and preliminaries [3]
-2. Adversarial Attacks, Defenses, and Robust Training [6]
-3. Poisoning Attacks, Backdoors, and Dataset Analysis [3-4]
-4. Privacy Attacks and Distributed Learning [3-4]
-5. Explainable, Fairness, and Ethical AI [3-4]
-5. Security and Safety of large models and Agentic Systems [3-6]
-
-
+1. AI Foundations, Threat Modeling, and preliminaries
+2. Adversarial Attacks, Defenses, and Robust Training
+3. Poisoning Attacks, Backdoors, and Dataset Analysis 
+4. Privacy Attacks and Distributed Learning 
+5. Explainable, Fairness, and Ethical AI 
+6. Security and Safety of large models and Agentic Systems
 
 
 ## 🛠️ Format & Exam
@@ -50,4 +48,4 @@ TBD — Late October to November 2026 (First Semester)
 
 
 ## MISC
-**[NNDL - Trustworthy AI and Applications [III Module] -  Scuola Superiore Sant'Anna (ONLINE)](/courses/material/robust-and-secure-ai_202526)** 
+**[Previous edition (2025/2026)](/courses/material/robust-and-secure-ai_202526)** 
