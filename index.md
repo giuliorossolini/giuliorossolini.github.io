@@ -37,15 +37,15 @@ layout: default
 
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>July 2026</strong> — Obtained the Italian National Scientific Qualification for Associate Professor (ASN, Second Level) in Computer Science (01/B1) and Computer Engineering (09/H1).
+  🏆 <strong>July 2026</strong> — Obtained the Italian National Scientific Qualification for Associate Professor (ASN, Second Level) in <b>Computer Science (01/B1)</b> and <b>Computer Engineering (09/H1)</b>.
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>July 2026</strong> — Our <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025526008704" target="_blank">Concise Thought paper</a> was accepted for publication in <em>Information Sciences</em>! Great work, Sania and Marco!
+  🏆 <strong>July 2026</strong> — Our <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025526008704" target="_blank">Concise Thought paper</a> was accepted for publication in <b><em>Information Sciences</em></b>! Great work, Sania and Marco!
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>July 2026</strong> — Our <a href="https://arxiv.org/abs/2508.03772" target="_blank">GRPO paper</a> was accepted for publication in <em>Transactions of the Association for Computational Linguistics</em>! Great work, Aleksander and Marco!
+  🏆 <strong>July 2026</strong> — Our <a href="https://arxiv.org/abs/2508.03772" target="_blank">GRPO paper</a> was accepted for publication in <b><em>Transactions of the Association for Computational Linguistics</em></b>! Great work, Aleksander and Marco!
 </div>
 
 <div style="margin-bottom:1rem;">
@@ -53,11 +53,7 @@ layout: default
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>April 2026</strong> — Our <a href="https://arxiv.org/abs/2601.05002" target="_blank">paper</a> was accepted to ACL 2026! Great work, Aleksander and Marco!
-</div>
-
-<div style="margin-bottom:1rem;">
-  🏆 <strong>October 2025</strong> — Received the 2025 National Prize for Young Italian Researchers in Cybersecurity.
+  🏆 <strong>April 2026</strong> — Our <a href="https://arxiv.org/abs/2601.05002" target="_blank">paper</a> was accepted to <b>ACL</b> 2026! Great work, Aleksander and Marco!
 </div>
 
 </div>
