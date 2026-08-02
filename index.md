@@ -36,40 +36,30 @@ layout: default
   </h3>
 
 
-
 <div style="margin-bottom:1rem;">
-  🏆 <strong>Apr 2026</strong> — <a href="https://arxiv.org/abs/2601.05002" target="_blank">Paper</a> accepted to ACL 2026! Great work, Aleksander and Marco!
+  🏆 <strong>July 2026</strong> — Obtained the Italian National Scientific Qualification for Associate Professor (ASN, Second Level) in Computer Science (01/B1) and Computer Engineering (09/H1).
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>Feb 2026</strong> — <a href="https://arxiv.org/abs/2601.14519" target="_blank">Preprint</a> of my "position" paper on the use of adversarial attacks for safety evaluation
+  🏆 <strong>July 2026</strong> — Our <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025526008704" target="_blank">Concise Thought paper</a> was accepted for publication in <em>Information Sciences</em>! Great work, Sania and Marco!
 </div>
 
-  <div style="margin-bottom:1rem;">
-    🏆 <strong>Nov 2025</strong> — Member of the Information Forensics and Security Technical Committee 
-  </div>
+<div style="margin-bottom:1rem;">
+  🏆 <strong>July 2026</strong> — Our <a href="https://arxiv.org/abs/2508.03772" target="_blank">GRPO paper</a> was accepted for publication in <em>Transactions of the Association for Computational Linguistics</em>! Great work, Aleksander and Marco!
+</div>
 
+<div style="margin-bottom:1rem;">
+  🏆 <strong>June 2026</strong> — Promoted to <b>Tenure-Track Assistant Professor (RTT)</b> at Scuola Superiore Sant'Anna.
+</div>
 
-  <div style="margin-bottom:1rem;">
-    🏆 <strong>Oct 2025</strong> — Recipient of the 2025 National Prize for Young Italian Researcher in Cybersecurity.
-  </div>
+<div style="margin-bottom:1rem;">
+  🏆 <strong>April 2026</strong> — Our <a href="https://arxiv.org/abs/2601.05002" target="_blank">paper</a> was accepted to ACL 2026! Great work, Aleksander and Marco!
+</div>
 
-  <div style="margin-bottom:1rem;">
-    🏆 <strong>Oct 2025</strong> — Paper accepted in <em>Internet Of Things</em>  
-    <strong> on the robustness of distributed DNNs</strong>. 
-    <a href="https://arxiv.org/pdf/2507.07259?" target="_blank">Link</a>
-  </div>
+<div style="margin-bottom:1rem;">
+  🏆 <strong>October 2025</strong> — Received the 2025 National Prize for Young Italian Researchers in Cybersecurity.
+</div>
 
-  <div style="margin-bottom:1rem;">
-    🏆 <strong>Sep 2025</strong> — Paper accepted in <em>Pattern Recognition</em>  
-    <strong> on the robustness of vision models</strong>. 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325010738" target="_blank">Link</a>
-  </div>
-
-  <div style="margin-bottom:1rem;">
-    🏆 <strong>Sep 2025</strong> — Awarded the <strong>PhD Dissertation Prize</strong> from the Italian Society of Intelligence.
-  <a href="https://www.santannapisa.it/it/news/premio-mosca-2025-riconoscimento-giulio-rossolini-della-scuola-superiore-santanna-una-ricerca" target="-black">Link </a>
-  </div>
 </div>
 
   <!-- Profile image at the bottom - -->
@@ -85,7 +75,7 @@ layout: default
   <div style="margin-top:1rem;">
     <h3 style="margin-bottom:.4rem;">Contact</h3>
     <p><a href="mailto:giulio.rossolini@santannapisa.it">giulio.rossolini@santannapisa.it</a></p>
-    <p style="font-size:.95rem; color:#555;">Last update: September, 2025</p>
+    <p style="font-size:.95rem; color:#555;">Last update: July, 2026</p>
   </div>
 
 
