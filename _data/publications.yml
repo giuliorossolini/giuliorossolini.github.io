@@ -61,7 +61,7 @@
 
 - title: "GTPO: Stabilizing Group Relative Policy Optimization via Gradient and Entropy Control"
   authors: "M Simoni, A. Fontana, G. Rossolini, A. Saracino, P. Mori"
-  venue: "(preprint) arXiv"
+  venue: "ransactions of the Association for Computational Linguistics (TACL)"
   year: 2025
   link: "https://arxiv.org/abs/2508.03772"
 
@@ -111,7 +111,7 @@
 
 - title: "Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost"
   authors: "S. Nayab, G. Rossolini, M. Simoni, A. Saracino, G. Buttazzo, N. Manes, F. Giacomelli"
-  venue: "arXiv"
+  venue: "Information Sciences"
   year: 2024
   arxiv: "https://arxiv.org/abs/2407.19825"
 
