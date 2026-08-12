@@ -37,6 +37,10 @@ layout: default
 
 
 <div style="margin-bottom:1rem;">
+  🏆 <strong>August 2026</strong> — Our  <a href="https://arxiv.org/abs/2604.11590" target="_blank"> paper</a> on adversarial learning in test-time scenarios was accepted for publication in <b><em>Image and Vision Computing</em></b>! Great work, Stefano!
+</div>
+
+<div style="margin-bottom:1rem;">
   🏆 <strong>July 2026</strong> — Obtained the Italian National Scientific Qualification for Associate Professor (ASN, Second Level) in <b>Computer Science (01/B1)</b> and <b>Computer Engineering (09/H1)</b>.
 </div>
 
