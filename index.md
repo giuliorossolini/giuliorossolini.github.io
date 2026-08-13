@@ -37,6 +37,10 @@ layout: default
 
 
 <div style="margin-bottom:1rem;">
+  🌍 <strong>August 2026</strong> — I’ll be at IJCAI/ECAI in Bremen from 17–21 August, serving as session chair for the session on adversarial machine learning!
+</div>
+
+<div style="margin-bottom:1rem;">
   📝 <strong>August 2026</strong> — Our  <a href="https://arxiv.org/abs/2604.11590" target="_blank"> paper</a> on adversarial learning in test-time scenarios was accepted for publication in <b><em>Image and Vision Computing</em></b>! Great work, Stefano!
 </div>
 
