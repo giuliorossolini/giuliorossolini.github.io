@@ -37,11 +37,11 @@ layout: default
 
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>August 2026</strong> — Our  <a href="https://arxiv.org/abs/2604.11590" target="_blank"> paper</a> on adversarial learning in test-time scenarios was accepted for publication in <b><em>Image and Vision Computing</em></b>! Great work, Stefano!
+  📝 <strong>August 2026</strong> — Our  <a href="https://arxiv.org/abs/2604.11590" target="_blank"> paper</a> on adversarial learning in test-time scenarios was accepted for publication in <b><em>Image and Vision Computing</em></b>! Great work, Stefano!
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>August 2026</strong> — Our  <a href="https://arxiv.org/abs/2411.10500" target="_blank"> paper</a> on adversarial attacks in split inference was accepted for publication in <b><em>IEEE Transactions on Information Forensics & Security</em></b>!
+  📝 <strong>August 2026</strong> — Our  <a href="https://arxiv.org/abs/2411.10500" target="_blank"> paper</a> on adversarial attacks in split inference was accepted for publication in <b><em>IEEE Transactions on Information Forensics & Security</em></b>!
 </div>
 
 <div style="margin-bottom:1rem;">
@@ -49,11 +49,11 @@ layout: default
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>July 2026</strong> — Our <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025526008704" target="_blank">Concise Thought paper</a> was accepted for publication in <b><em>Information Sciences</em></b>! Great work, Sania and Marco!
+  📝 <strong>July 2026</strong> — Our <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025526008704" target="_blank">Concise Thought paper</a> was accepted for publication in <b><em>Information Sciences</em></b>! Great work, Sania and Marco!
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>July 2026</strong> — Our <a href="https://arxiv.org/abs/2508.03772" target="_blank">GRPO paper</a> was accepted for publication in <b><em>Transactions of the Association for Computational Linguistics</em></b>! Great work, Aleksander and Marco!
+  📝 <strong>July 2026</strong> — Our <a href="https://arxiv.org/abs/2508.03772" target="_blank">GRPO paper</a> was accepted for publication in <b><em>Transactions of the Association for Computational Linguistics</em></b>! Great work, Aleksander and Marco!
 </div>
 
 <div style="margin-bottom:1rem;">
@@ -61,8 +61,9 @@ layout: default
 </div>
 
 <div style="margin-bottom:1rem;">
-  🏆 <strong>April 2026</strong> — Our <a href="https://arxiv.org/abs/2601.05002" target="_blank">paper</a> was accepted to <b>ACL</b> 2026! Great work, Aleksander and Marco!
+  📝 <strong>April 2026</strong> — Our <a href="https://arxiv.org/abs/2601.05002" target="_blank">paper</a> was accepted to <b>ACL</b> 2026! Great work, Aleksander and Marco!
 </div>
+
 
 </div>
 
