@@ -57,7 +57,7 @@ layout: default
 </div>
 
 <div style="margin-bottom:1rem;">
-  📝 <strong>July 2026</strong> — Our <a href="https://arxiv.org/abs/2508.03772" target="_blank">GRPO paper</a> was accepted for publication in <b><em>Transactions of the Association for Computational Linguistics</em></b>! Great work, Aleksander and Marco!
+  📝 <strong>July 2026</strong> — Our <a href="https://arxiv.org/abs/2508.03772" target="_blank">GTPO paper</a> was accepted for publication in <b><em>Transactions of the Association for Computational Linguistics</em></b>! Great work, Aleksander and Marco!
 </div>
 
 <div style="margin-bottom:1rem;">
