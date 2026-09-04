@@ -36,6 +36,10 @@ layout: default
   </h3>
 
 
+<div style="margin-bottom: 1rem;">
+  🌍 <strong>Sept 2026</strong> — I’ll be at EMNLP in Budapest from 24–27 Sept, to present our GTPO paper with Aleksandar and Marco!
+</div>
+
 <div style="margin-bottom:1rem;">
   🌍 <strong>August 2026</strong> — I’ll be at IJCAI/ECAI in Bremen from 17–21 August, serving as session chair for the session on adversarial machine learning!
 </div>
