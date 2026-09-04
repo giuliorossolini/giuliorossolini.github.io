@@ -9,6 +9,12 @@
   link: "https://dantinox.readthedocs.io/en/latest/quickstart.html"
 
 
+- title: "Position Matters: Feature Inversion Attacks in ViT Split Inference with Token Reduction and Shuffling"
+  authors: "S Leggio, G Rossolini, A Biondi"
+  venue: "arXiv"
+  year: 2026
+  link: "https://arxiv.org/pdf/2609.01232"
+
 - title: "Adversarial Decoys: Misdirecting Attention-Based Defenses in ViT"
   authors: "G Marchiori Pietrosanti, G Rossolini, G Buttazzo"
   venue: "arXiv"
@@ -104,8 +110,6 @@
   venue: "IEEE Transactions on Information Forensics & Security"
   year: 2024
   arxiv: "https://arxiv.org/abs/2411.10500"
-
-
 
 
 
