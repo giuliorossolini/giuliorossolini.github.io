@@ -36,6 +36,12 @@ layout: default
   </h3>
 
 
+<div style="margin-bottom:1rem;">
+📝 <strong>Sept 2026</strong> — Our <a href="https://arxiv.org/pdf/2609.01232" target="_blank">paper</a> on feature reconstruction in ViT split-inference scenarios was accepted for publication at <b><em>AISec 2026</em></b>! Great work, Stefano!
+</div>
+
+
+
 <div style="margin-bottom: 1rem;">
   🌍 <strong>Sept 2026</strong> — I’ll be at EMNLP in Budapest from 24–27 Sept, to present our GTPO paper with Aleksandar and Marco!
 </div>

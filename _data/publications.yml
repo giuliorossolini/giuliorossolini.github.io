@@ -11,7 +11,7 @@
 
 - title: "Position Matters: Feature Inversion Attacks in ViT Split Inference with Token Reduction and Shuffling"
   authors: "S Leggio, G Rossolini, A Biondi"
-  venue: "arXiv"
+  venue: "19 th ACM Workshop on Artificial Intelligence and Security (AISec'26)"
   year: 2026
   link: "https://arxiv.org/pdf/2609.01232"
 
@@ -67,7 +67,7 @@
 
 - title: "GTPO: Stabilizing Group Relative Policy Optimization via Gradient and Entropy Control"
   authors: "M Simoni, A. Fontana, G. Rossolini, A. Saracino, P. Mori"
-  venue: "Transactions of the Association for Computational Linguistics (TACL)"
+  venue: "Transactions of the Association for Computational Linguistics (TACL) - Presented at EMNLP 2026 (Budapest)"
   year: 2025
   link: "https://arxiv.org/abs/2508.03772"
 
