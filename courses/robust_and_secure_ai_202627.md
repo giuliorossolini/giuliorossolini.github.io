@@ -27,7 +27,7 @@ To attend the course in the first semester of the 2026–2027 academic year, ple
 A Microsoft Teams channel will be set up soon for feedback, questions, and announcements.
 
 
-## 🗓️ Schedule
+## 🗓️ Schedule (To be confirmed)
 
 Scheduled lectures are showed in the following, while next dates and rooms will be confirmed soon.
 
