@@ -5,8 +5,6 @@ permalink: /courses/robust-secure-ai/
 ---
 
 
-
-
 ## 📖 Course Overview
 The course is designed to provide an introductory yet technical understanding of the security vulnerabilities and threats that modern AI systems face, with a focus on deep neural networks and computer vision applications. Participants will explore key definitions and techniques for designing and implementing AI-based security attacks and safety threats while also gaining a foundational understanding of how to protect AI systems against them. A portion of the course will be devoted to hands-on laboratory sessions, where participants will implement attacks and countermeasures in practical deep neural network applications.
 
@@ -24,10 +22,9 @@ The main topics of the course are organized as follows:
 - **Exam (3 CFU)**: Project/Research work  + oral discussion.  
 
 
-To attend the course in the first semester of the 2026–2027 academic year, please fill out the following form: [Course Registration Form](TODO). 
+To attend the course in the first semester of the 2026–2027 academic year, please fill out the following form: [Course Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSezbAeJEsBQhb2UVt3Ok3gtIEJlMRfQ7y_bMv0ZMw1NAX_ZOg/viewform?usp=publish-editor). 
 
 A Microsoft Teams channel will be set up soon for feedback, questions, and announcements.
-
 
 ## 🗓️ Schedule
 
