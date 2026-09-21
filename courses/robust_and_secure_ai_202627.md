@@ -26,9 +26,31 @@ To attend the course in the first semester of the 2026–2027 academic year, ple
 
 A Microsoft Teams channel will be set up soon for feedback, questions, and announcements.
 
+
 ## 🗓️ Schedule
 
-TBD — Late October to November 2026 (First Semester)
+Scheduled lectures are showed in the following, while next dates and rooms will be confirmed soon.
+
+- Lecture 1 – AI Foundations & Threat Modeling – <strong> 3 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
+- Lecture 2 – Adversarial Attacks – <strong> 5 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
+- Lecture 3 – Defenses & Robust Training – <strong> 10 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
+- Lecture 4 – OOD Generalization & Detection – <strong> 12 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
+- Lecture 5 – Poisoning, Backdoors & Dataset Analysis – <strong> 24 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
+- Lecture 6 – Privacy Attacks & Distributed Learning Security – <strong> 26 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
+- Lecture 7 – Explainable, Fairness & Ethical AI – <strong> 1 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
+- Lecture 8 – LLM & VLM Foundations – <strong> 3 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
+- Lecture 9 – Safety, Steering & Jailbreak – <strong> 9 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
+- Lecture 10 – Security of Agentic Systems – <strong> 11 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+
 
 
 ## 📂 Lectures
