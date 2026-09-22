@@ -45,7 +45,7 @@ Scheduled lectures are showed in the following, while next dates and rooms will 
 
 - Lecture 7 – Explainable, Fairness & Ethical AI – <strong> 1 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 8 – LLM & VLM Foundations – <strong> 3 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 8 – LLM & VLM Foundations – <strong> 3 December (14:30–17:30) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
 - Lecture 9 – Safety, Steering & Jailbreak – <strong> 9 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
