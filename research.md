@@ -79,7 +79,10 @@ For a complete and updated list of my publications, please visit:
       {% for p in year_group.items %}
       <li class="pub-item">
         <span class="pub-title"><strong>{{ p.title }}</strong></span><br/>
-        <span class="pub-authors">{{ p.authors }}</span><br/>
+        
+        <!-- Replaces your name with a bolded version of your name -->
+        <span class="pub-authors">{{ p.authors | replace: 'G.Rossolini', '<strong>G.Rossolini</strong>' }}</span><br/>
+        
         <span class="pub-venue"><em>{{ p.venue }}</em></span>
         {% if p.extra %} <span class="pub-extra">{{ p.extra }}</span>{% endif %}
         {% if p.doi %} · <a href="https://doi.org/{{ p.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
@@ -92,7 +95,6 @@ For a complete and updated list of my publications, please visit:
   </li>
   {% endfor %}
 </ul>
-
 
 ---
 
