@@ -16,6 +16,7 @@ layout: default
     <strong>EPFL</strong> with
     <a href="https://people.epfl.ch/mathieu.salzmann" target="_blank" rel="noopener">Dr. Mathieu Salzmann</a>,
     studying robustness of self-attention and adaptive learning for autonomous driving.
+    I received the <strong>Carlo Mosca PhD Dissertation Prize </strong> in 2025 and the <strong> Italian National Prize for Young Researchers 2025 </strong> from <strong>Gruppo 2003 in the Cybersecurity category </strong>.
   </p>
 
   <p style="margin-top:1rem;">
