@@ -6,17 +6,8 @@ layout: default
 <div style="max-width:900px; margin:0 auto;">
 
   <p>
-    Hi! I am a Tenure-Track Assistant Professor (RTT) at the <strong>Scuola Superiore Sant’Anna</strong> in Pisa,
-    working on <strong>safe and secure artificial intelligence</strong>. I received my Ph.D. in
-    <em>Emerging Digital Technologies</em> (2024), focusing on <strong>safety and robustness</strong> of AI
-    for <strong>cyber-physical systems</strong> and <strong>computer vision</strong>, under the supervision of
-    <a href="http://retis.sssup.it/~giorgio/" target="_blank" rel="noopener">Prof. Giorgio Buttazzo</a> and
-    <a href="https://retis.sssup.it/~a.biondi/" target="_blank" rel="noopener">Prof. Alessandro Biondi</a>.
-    In 2023, I visited the <strong>Computer Vision Laboratory (CVLab)</strong> at
-    <strong>EPFL</strong> with
-    <a href="https://people.epfl.ch/mathieu.salzmann" target="_blank" rel="noopener">Dr. Mathieu Salzmann</a>,
-    studying robustness of self-attention and adaptive learning for autonomous driving.
-    I received the <strong>Carlo Mosca PhD Dissertation Prize </strong> in 2025 and the <strong> Italian National Prize for Young Researchers 2025 </strong> from <strong>Gruppo 2003 in the Cybersecurity category </strong>.
+  Hi! I am a Tenure-Track Assistant Professor (RTT) at the <strong>Scuola Superiore Sant’Anna</strong> in Pisa, working on <strong>safe and secure artificial intelligence</strong>. I received my Ph.D. in <em>Emerging Digital Technologies</em> (2024), focusing on <strong>safety and robustness</strong> of AI for <strong>cyber-physical systems</strong> and <strong>computer vision</strong>. In 2023, I was a visiting researcher at the <strong>Computer Vision Laboratory (CVLab)</strong> at <strong>EPFL</strong>, studying the robustness of self-attention and adaptive learning for autonomous driving. 
+  I received the <strong>Carlo Mosca PhD Dissertation Prize</strong> in 2025 and the <strong>Italian National Prize for Young Researchers 2025</strong> from <strong>Gruppo 2003</strong> in the Cybersecurity category.
   </p>
 
   <p style="margin-top:1rem;">
