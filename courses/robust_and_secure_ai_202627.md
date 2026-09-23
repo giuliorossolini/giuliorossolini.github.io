@@ -63,4 +63,4 @@ Scheduled lectures are showed in the following, while next dates and rooms will 
 
 
 ## MISC
-**[Previous edition (2025/2026)](/courses/material/robust-secure-ai_202526)** 
+**[Previous edition (2025/2026)](/courses/robust-secure-ai_202526)** 
