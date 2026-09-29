@@ -29,8 +29,6 @@ A Microsoft Teams channel will be set up soon for feedback, questions, and annou
 
 ## 🗓️ Schedule (To be confirmed)
 
-Scheduled lectures are showed in the following, while next dates and rooms will be confirmed soon.
-
 - Lecture 1 – AI Foundations & Threat Modeling – <strong> 3 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
 - Lecture 2 – Adversarial Attacks – <strong> 5 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
