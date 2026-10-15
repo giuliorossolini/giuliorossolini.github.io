@@ -29,9 +29,13 @@ layout: default
 
 
 <div style="margin-bottom:1rem;">
-📝 <strong>Sept 2026</strong> — Our <a href="https://arxiv.org/pdf/2609.01232" target="_blank">paper</a> on feature reconstruction in ViT split-inference scenarios was accepted for publication at <b><em>AISec 2026</em></b>! Great work, Stefano!
+📝 <strong>Oct 2026</strong> — Our <a href="https://arxiv.org/abs/2607.07922" target="_blank">paper</a> on adversarial decoy in ViT has been accepted for publication at <b><em>WACV 2027</em></b>! Great work, Giulia!
 </div>
 
+
+<div style="margin-bottom:1rem;">
+📝 <strong>Sept 2026</strong> — Our <a href="https://arxiv.org/pdf/2609.01232" target="_blank">paper</a> on feature reconstruction in ViT split-inference scenarios was accepted for publication at <b><em>AISec 2026</em></b>! Great work, Stefano!
+</div>
 
 
 <div style="margin-bottom: 1rem;">
