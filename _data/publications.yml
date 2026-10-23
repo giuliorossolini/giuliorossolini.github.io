@@ -3,26 +3,26 @@
 
 
 - title: "DantinoX: A Unified  Framework for Multi-Paradigm Language Modeling"
-  authors: "M Simoni, A Fontana, G Rossolini, A Saracino"
+  authors: "M. Simoni, A. Fontana, G. Rossolini, A. Saracino"
   venue: "arXiv"
   year: 2026
   link: "https://dantinox.readthedocs.io/en/latest/quickstart.html"
 
 
 - title: "Position Matters: Feature Inversion Attacks in ViT Split Inference with Token Reduction and Shuffling"
-  authors: "S Leggio, G Rossolini, A Biondi"
+  authors: "S. Leggio, G. Rossolini, A. Biondi"
   venue: "19 th ACM Workshop on Artificial Intelligence and Security (AISec'26)"
   year: 2026
   link: "https://arxiv.org/pdf/2609.01232"
 
 - title: "Adversarial Decoys: Misdirecting Attention-Based Defenses in ViT"
-  authors: "G Marchiori Pietrosanti, G Rossolini, G Buttazzo"
+  authors: "G. Marchiori Pietrosanti, G. Rossolini, G. Buttazzo"
   venue: "Proceedings of the Winter Conference on Applications of Computer Vision (WACV 2027)"
   year: 2026
   link: "https://arxiv.org/abs/2607.07922"
 
 - title: "PairedGTA: Generating Driving Datasets for Controlled Photometric Shift Analysis"
-  authors: "A Chianese, G Rossolini, A Biondi, M Cococcioni, G Buttazzo"
+  authors: "A. Chianese, G. Rossolini, A. Biondi, M. Cococcioni, G. Buttazzo"
   venue: "arXiv"
   year: 2026
   link: "https://arxiv.org/pdf/2606.01192"
