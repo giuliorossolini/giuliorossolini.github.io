@@ -24,34 +24,36 @@ The main topics of the course are organized as follows:
 
 To attend the course in the first semester of the 2026–2027 academic year, please fill out the following form: [Course Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSezbAeJEsBQhb2UVt3Ok3gtIEJlMRfQ7y_bMv0ZMw1NAX_ZOg/viewform?usp=publish-editor). 
 
-A Microsoft Teams channel will be set up soon for feedback, questions, and announcements.
+Partecipants will be added to a Microsoft Teams channel for feedback, questions, announcements and online lectures.
 
 
 ## 🗓️ Schedule (To be confirmed)
 
-- Lecture 1 – AI Foundations & Threat Modeling – <strong> 3 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 1 – AI Foundations & Threat Modeling – <del> 3 November (14:00–17:00)  </del> <strong> 5 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 2 – Adversarial Attacks – <strong> 5 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 2 – Adversarial Attacks – <strong> 10 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 3 – Defenses & Robust Training – <strong> 10 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 3 – Defenses & Robust Training – <strong> 12 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 4 – OOD Generalization & Detection – <strong> 12 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 4 – OOD Generalization & Detection – <strong> 24 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 5 – Poisoning, Backdoors & Dataset Analysis – <strong> 24 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 5 – Poisoning, Backdoors & Dataset Analysis – <strong> 26 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 6 – Privacy Attacks & Distributed Learning Security – <strong> 26 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 6 – Privacy Attacks & Distributed Learning Security – <strong> 1 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 7 – Explainable, Fairness & Ethical AI – <strong> 1 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 7 – Explainable, Fairness & Ethical AI – <strong> 3 December (14:30–17:30) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 8 – LLM & VLM Foundations – <strong> 3 December (14:30–17:30) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 8 – LLM & VLM Foundations – <strong> 10 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 9 – Safety, Steering & Jailbreak – <strong> 10 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 9 – Safety, Steering & Jailbreak – <strong> 15 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 10 – Security of Agentic Systems – <strong> 11 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
+- Lecture 10 – Security of Agentic Systems – <strong> 16 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
 
 
 ## 📂 Lectures
+
+You can find all lectures and notebooks in the following OneDrive folder: [LINK](https://alumnisssup-my.sharepoint.com/:f:/g/personal/giulio_rossolini_santannapisa_it/IgAuUbgXm6JyQK_CndbhYemHAaInaM8mzLjZT6ZYIw-J45I?e=iwR80D)
 
 ---
 
