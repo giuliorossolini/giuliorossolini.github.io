@@ -27,7 +27,7 @@ To attend the course in the first semester of the 2026–2027 academic year, ple
 Partecipants will be added to a Microsoft Teams channel for feedback, questions, announcements and online lectures.
 
 
-## 🗓️ Schedule (To be confirmed)
+## 🗓️ Schedule
 
 - Lecture 1 – AI Foundations & Threat Modeling – <del> 3 November (14:00–17:00)  </del> <strong> 5 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
@@ -59,6 +59,12 @@ You can find all lectures and notebooks in the following OneDrive folder: [LINK]
 
 ### 📬 Contact
 [giulio.rossolini@santannapisa.it](mailto:giulio.rossolini@santannapisa.it)
+
+[stefano.leggio@santannapisa.it](mailto:stefano.leggio@santannapisa.it)
+
+[alberto.dorizza@santannapisa.it](mailto:alberto.dorizza@santannapisa.it)
+
+[marco.simoni@santannapisa.it](mailto:marco.simoni@santannapisa.it)
 
 
 
