@@ -53,7 +53,7 @@ Partecipants will be added to a Microsoft Teams channel for feedback, questions,
 
 ## 📂 Lectures
 
-You can find all lectures and notebooks in the following OneDrive folder: [LINK](https://alumnisssup-my.sharepoint.com/:f:/g/personal/giulio_rossolini_santannapisa_it/IgAuUbgXm6JyQK_CndbhYemHAaInaM8mzLjZT6ZYIw-J45I?e=iwR80D)
+You can find all lectures and notebooks in the following OneDrive folder: [LINK](https://alumnisssup-my.sharepoint.com/:f:/g/personal/giulio_rossolini_santannapisa_it/IgAuUbgXm6JyQK_CndbhYemHAXFr8Jlqh6y73Z5qwp9fe4Y?e=j9Fv52)
 
 ---
 
