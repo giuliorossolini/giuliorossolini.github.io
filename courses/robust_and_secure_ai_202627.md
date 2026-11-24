@@ -37,7 +37,7 @@ Partecipants will be added to a Microsoft Teams channel for feedback, questions,
 
 - Lecture 4 – OOD Generalization & Detection – <strong> 24 November (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 
-- Lecture 5 – Poisoning, Backdoors & Dataset Analysis – <del>26 November (14:00 - 17:00) </del><strong> 30 November (14:00–17:00) </strong>, <del> PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1 </del> Remote on Microsoft Teams
+- Lecture 5 – Poisoning, Backdoors & Dataset Analysis – <del>26 November (14:00 - 17:00) </del><strong> 30 November (9:00–12:00) </strong>, <del> PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1 </del> Remote on Microsoft Teams
 
 - Lecture 6 – Privacy Attacks & Distributed Learning Security – <strong> 1 December (14:00–17:00) </strong>, PC Room, Tecip, Scuola Superiore Sant'Anna, Via Giuseppe Moruzzi 1
 

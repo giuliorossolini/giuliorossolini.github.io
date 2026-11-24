@@ -1,13 +1,9 @@
 # _data/publications.yml
-
-
-
 - title: "DantinoX: A Unified  Framework for Multi-Paradigm Language Modeling"
   authors: "M. Simoni, A. Fontana, G. Rossolini, A. Saracino"
   venue: "arXiv"
   year: 2026
   link: "https://dantinox.readthedocs.io/en/latest/quickstart.html"
-
 
 - title: "Position Matters: Feature Inversion Attacks in ViT Split Inference with Token Reduction and Shuffling"
   authors: "S. Leggio, G. Rossolini, A. Biondi"
